@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-02 23:19:57,2023-12-02 23:23:52,gpt-35-turbo - concise - logiqa-en-100,gpt-35-turbo,concise,logiqa-en-100,100,0.39,42313,84468,126781,1267.81,0.2324055,0.002324055,235.610756,2.35610756

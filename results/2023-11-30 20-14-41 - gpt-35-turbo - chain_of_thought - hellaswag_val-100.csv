@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 20:14:41,2023-11-30 20:20:06,gpt-35-turbo - chain_of_thought - hellaswag_val-100,gpt-35-turbo,chain_of_thought,hellaswag_val-100,100,0.81,46538,140693,187231,1872.31,0.35119300000000003,0.0035119300000000003,325.596226,3.25596226

@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 19:03:31,2023-11-30 19:04:16,gpt-35-turbo - baseline - sat-en-100,gpt-35-turbo,baseline,sat-en-100,100,0.82,116088,7538,123626,1236.26,0.18920800000000002,0.0018920800000000002,44.811784,0.44811784000000005

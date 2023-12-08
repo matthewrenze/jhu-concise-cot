@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 20:35:16,2023-11-30 20:45:28,gpt-35-turbo - composite - logiqa-en-100,gpt-35-turbo,composite,logiqa-en-100,100,0.43,64687,295194,359881,3598.81,0.6874185,0.0068741850000000005,611.90581,6.1190581

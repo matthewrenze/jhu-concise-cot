@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-03 00:46:03,2023-12-03 00:57:46,gpt-4 - concise - lsat-lr-100,gpt-4,concise,lsat-lr-100,100,0.74,45754,59383,105137,1051.37,4.9356,0.049356,703.313497,7.03313497

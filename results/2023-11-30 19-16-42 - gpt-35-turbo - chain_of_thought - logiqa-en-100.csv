@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 19:16:42,2023-11-30 19:23:35,gpt-35-turbo - chain_of_thought - logiqa-en-100,gpt-35-turbo,chain_of_thought,logiqa-en-100,100,0.44,45877,172595,218472,2184.72,0.4140055,0.004140055,413.585953,4.13585953

@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 20:24:50,2023-11-30 20:35:16,gpt-35-turbo - composite - aqua-rat-100,gpt-35-turbo,composite,aqua-rat-100,100,0.73,54087,284456,338543,3385.43,0.6500425000000001,0.006500425000000001,625.864879,6.25864879

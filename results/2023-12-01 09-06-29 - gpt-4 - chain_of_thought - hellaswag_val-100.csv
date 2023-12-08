@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-01 09:06:29,2023-12-01 09:30:07,gpt-4 - chain_of_thought - hellaswag_val-100,gpt-4,chain_of_thought,hellaswag_val-100,100,0.87,46142,119862,166004,1660.04,8.57598,0.0857598,1417.972678,14.179726780000001

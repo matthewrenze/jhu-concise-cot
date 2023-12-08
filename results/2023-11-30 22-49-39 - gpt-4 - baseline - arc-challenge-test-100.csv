@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 22:49:39,2023-11-30 22:52:44,gpt-4 - baseline - arc-challenge-test-100,gpt-4,baseline,arc-challenge-test-100,100,0.89,24886,6021,30907,309.07,1.10784,0.011078399999999999,184.76142,1.8476141999999998

@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-01 16:51:35,2023-12-01 17:26:42,gpt-4 - composite - arc-challenge-test-100,gpt-4,composite,arc-challenge-test-100,100,0.96,51686,258214,309900,3099.0,17.043419999999998,0.17043419999999998,2106.406016,21.06406016

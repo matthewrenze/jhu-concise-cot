@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-01 09:30:07,2023-12-01 09:53:32,gpt-4 - chain_of_thought - medmcqa-dev-100,gpt-4,chain_of_thought,medmcqa-dev-100,100,0.76,31598,129279,160877,1608.77,8.70468,0.0870468,1405.474357,14.054743570000001

@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 21:38:11,2023-11-30 21:46:23,gpt-35-turbo - composite - arc-challenge-test-100,gpt-35-turbo,composite,arc-challenge-test-100,100,0.86,52086,240279,292365,2923.65,0.5586869999999999,0.005586869999999999,491.865444,4.91865444

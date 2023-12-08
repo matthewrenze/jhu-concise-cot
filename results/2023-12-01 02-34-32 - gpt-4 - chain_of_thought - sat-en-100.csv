@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-01 02:34:32,2023-12-01 02:53:48,gpt-4 - chain_of_thought - sat-en-100,gpt-4,chain_of_thought,sat-en-100,100,0.96,123414,101556,224970,2249.7,9.79578,0.09795780000000001,1156.378776,11.56378776

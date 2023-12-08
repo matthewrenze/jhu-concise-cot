@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 18:59:17,2023-11-30 19:00:46,gpt-35-turbo - baseline - aqua-rat-100,gpt-35-turbo,baseline,aqua-rat-100,100,0.37,27287,17585,44872,448.72,0.0761005,0.000761005,88.809794,0.88809794

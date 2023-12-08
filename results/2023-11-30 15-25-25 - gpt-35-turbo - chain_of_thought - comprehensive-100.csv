@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 15:25:25,2023-11-30 15:32:02,gpt-35-turbo - chain_of_thought - comprehensive-100,gpt-35-turbo,chain_of_thought,comprehensive-100,100,0.61,54708,163254,217962,2179.62,0.40857,0.0040857,397.950365,3.97950365

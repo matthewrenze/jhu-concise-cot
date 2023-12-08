@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-03 01:07:10,2023-12-03 01:19:16,gpt-4 - concise - sat-en-100,gpt-4,concise,sat-en-100,100,0.95,119850,29334,149184,1491.84,5.3555399999999995,0.053555399999999996,726.06206,7.260620599999999

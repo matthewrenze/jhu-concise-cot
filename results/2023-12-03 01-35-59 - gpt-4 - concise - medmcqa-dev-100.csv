@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-03 01:35:59,2023-12-03 01:46:40,gpt-4 - concise - medmcqa-dev-100,gpt-4,concise,medmcqa-dev-100,100,0.75,27998,53822,81820,818.2,4.06926,0.040692599999999995,640.899206,6.40899206

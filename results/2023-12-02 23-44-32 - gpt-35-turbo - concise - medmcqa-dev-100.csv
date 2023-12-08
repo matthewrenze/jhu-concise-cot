@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-02 23:44:32,2023-12-02 23:47:10,gpt-35-turbo - concise - medmcqa-dev-100,gpt-35-turbo,concise,medmcqa-dev-100,100,0.6,28398,58756,87154,871.54,0.160109,0.0016010900000000001,158.028965,1.58028965

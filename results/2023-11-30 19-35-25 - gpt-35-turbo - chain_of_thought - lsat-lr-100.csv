@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 19:35:25,2023-11-30 19:42:05,gpt-35-turbo - chain_of_thought - lsat-lr-100,gpt-35-turbo,chain_of_thought,lsat-lr-100,100,0.5,49754,163640,213394,2133.94,0.401911,0.00401911,400.019563,4.00019563

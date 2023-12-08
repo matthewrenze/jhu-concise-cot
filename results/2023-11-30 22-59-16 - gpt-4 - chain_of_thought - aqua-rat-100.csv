@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 22:59:16,2023-11-30 23:40:46,gpt-4 - chain_of_thought - aqua-rat-100,gpt-4,chain_of_thought,aqua-rat-100,100,0.86,34687,236689,271376,2713.76,15.24195,0.15241949999999999,2490.080473,24.90080473

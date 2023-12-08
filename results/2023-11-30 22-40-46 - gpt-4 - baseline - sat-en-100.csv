@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 22:40:46,2023-11-30 22:44:17,gpt-4 - baseline - sat-en-100,gpt-4,baseline,sat-en-100,100,0.93,115692,5953,121645,1216.45,3.82794,0.0382794,210.530028,2.10530028

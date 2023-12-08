@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 22:52:44,2023-11-30 22:56:06,gpt-4 - baseline - hellaswag_val-100,gpt-4,baseline,hellaswag_val-100,100,0.91,38420,5958,44378,443.78,1.5100799999999999,0.0151008,202.498931,2.02498931

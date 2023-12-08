@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 22:27:36,2023-11-30 22:30:49,gpt-4 - baseline - logiqa-en-100,gpt-4,baseline,logiqa-en-100,100,0.59,37759,5959,43718,437.18,1.49031,0.0149031,193.312501,1.93312501

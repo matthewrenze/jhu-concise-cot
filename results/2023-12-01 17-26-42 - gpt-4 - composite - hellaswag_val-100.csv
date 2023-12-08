@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-01 17:26:42,2023-12-01 18:03:43,gpt-4 - composite - hellaswag_val-100,gpt-4,composite,hellaswag_val-100,100,0.85,65153,260316,325469,3254.69,17.57355,0.17573550000000002,2221.53483,22.215348300000002

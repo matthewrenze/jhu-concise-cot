@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-01 15:25:19,2023-12-01 16:04:52,gpt-4 - composite - sat-en-100,gpt-4,composite,sat-en-100,100,0.94,142224,260509,402733,4027.33,19.89726,0.1989726,2373.014602,23.730146020000003

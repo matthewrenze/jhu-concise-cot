@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 22:37:25,2023-11-30 22:40:46,gpt-4 - baseline - lsat-rc-100,gpt-4,baseline,lsat-rc-100,100,0.82,87557,6008,93565,935.65,2.98719,0.0298719,201.05442,2.0105442

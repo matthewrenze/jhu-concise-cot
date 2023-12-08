@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 19:01:28,2023-11-30 19:02:11,gpt-35-turbo - baseline - lsat-ar-100,gpt-35-turbo,baseline,lsat-ar-100,100,0.23,40924,6937,47861,478.61,0.07526000000000001,0.0007526000000000001,43.106187,0.43106186999999996

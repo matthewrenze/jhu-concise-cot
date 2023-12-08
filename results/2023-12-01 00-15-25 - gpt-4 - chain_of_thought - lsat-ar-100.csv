@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-01 00:15:25,2023-12-01 01:38:56,gpt-4 - chain_of_thought - lsat-ar-100,gpt-4,chain_of_thought,lsat-ar-100,100,0.35,48324,353067,401391,4013.91,22.63374,0.2263374,5011.264194,50.11264194

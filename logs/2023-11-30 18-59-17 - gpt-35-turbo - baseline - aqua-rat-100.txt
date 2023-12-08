@@ -1,0 +1,4525 @@
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 1 of 100 ###
+Topic: Math
+Question: A computer routine was developed to generate two numbers (x,y) the first being a random number between 0 and 100 inclusive, and the second being less than or equal to the square root of the first. Each of the following pair satisfies the routine except
+Choices:
+  A: (99,10)
+  B: (85,9)
+  C: (50,7)
+  D: (1,1)
+  E: (1,0)
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("E")
+Response 2:
+Action: Answer("E")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("A")
+Response 6:
+Action: Answer("E")
+Response 7:
+Action: Answer("E")  
+Response 8:
+Action: Answer("E")
+Response 9:
+Action: Answer("C")
+Votes: C, E, E, C, B, A, E, E, E, C
+Agent Answer: E
+Correct Answer: A
+Score: 0
+Tokens: 345
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 2 of 100 ###
+Topic: Math
+Question: If 75 percent of the employees of a certain company take a winter vacation, 40 percent take a winter and a summer vacation, and 20 percent take neither a winter nor a summer vacation, what Q percent of the employees take a summer vacation but not a winter vacation?
+Choices:
+  A: 5%
+  B: 15%
+  C: 25%
+  D: 35%
+  E: 45%
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("B")
+Votes: C, C, B, C, B, B, B, B, C, B
+Agent Answer: B
+Correct Answer: A
+Score: 0
+Tokens: 337
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 3 of 100 ###
+Topic: Math
+Question: A rectangular solid, 3 x 4 x 15, is inscribed in a sphere, so that all eight of its vertices are on the sphere. What is the diameter of the sphere?
+Choices:
+  A:  13.3542
+  B:  15.8113
+  C:  18.3451
+  D:  19.5667
+  E:  20.8888
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action : Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("E")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: C, C, C, C, C, C, E, C, C, C
+Agent Answer: C
+Correct Answer: B
+Score: 0
+Tokens: 340
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 4 of 100 ###
+Topic: Math
+Question: Peter wants to find 10 additional people to form a scavenger hunt team with him. If he has 10 friends who would like to participate, how many choices does he have for forming his team?
+Choices:
+  A: 0
+  B: 1
+  C: 2
+  D: 3
+  E: 4
+Response 0:
+Action: Answer("E")
+Response 1:
+Action: Answer("E")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("E")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("E")
+Response 9:
+Action: Answer("D")
+Votes: E, E, C, D, E, C, C, D, E, D
+Agent Answer: E
+Correct Answer: B
+Score: 0
+Tokens: 321
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 5 of 100 ###
+Topic: Math
+Question: Assistants are needed to prepare for preparation. Each helper can make either 2 large cakes or 35 small cakes/hr. The kitchen is available for 3 hours and 20 large cakes & 700 small cakes are needed. How many helpers are required?
+Choices:
+  A: 8
+  B: 10
+  C: 12
+  D: 15
+  E: 19
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("A")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("D")
+Votes: C, A, B, D, C, C, C, A, A, D
+Agent Answer: C
+Correct Answer: B
+Score: 0
+Tokens: 332
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 6 of 100 ###
+Topic: Math
+Question: An express electric train takes exact three seconds to enter tunnel which is 1 mile long.
+If train is traveling at 120 mile an hour, how long will it take to pass completely through the tunnel ?
+Choices:
+  A: 43 seconds
+  B: 39 seconds
+  C: 20 seconds
+  D: 33 seconds
+  E: 55 seconds
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("A")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: C, C, B, B, A, C, C, C, C, C
+Agent Answer: C
+Correct Answer: D
+Score: 0
+Tokens: 326
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 7 of 100 ###
+Topic: Math
+Question: A bookshelf contains 45 books, 30 of which are hardcover and 20 of which are fiction. What is the maximum number of books that are both hardcover and fiction?
+Choices:
+  A: 10
+  B: 15
+  C: 18
+  D: 20
+  E: 30
+Response 0:
+Action: Answer("B")
+Response 1:
+We can start by using the formula: Total = Group1 + Group2 - Both
+
+Let's plug in the given values:
+45 = 30 + 20 - Both
+
+Simplifying the equation, we get:
+Both = 5
+
+So the maximum number of books that are both hardcover and fiction is 5.
+
+Action: Answer("A")
+Response 2:
+Action: Answer("B")
+Response 3:
+Since the total number of books can't be greater than 45 and we know that there are only 30 hardcover books and 20 fiction books, we can determine the maximum number of books that are both hardcover and fiction by taking the minimum of these two quantities. 
+
+Action: Answer("B")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("B")
+Votes: B, A, B, B, B, B, B, B, A, B
+Agent Answer: B
+Correct Answer: D
+Score: 0
+Tokens: 441
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 8 of 100 ###
+Topic: Math
+Question: An electric pole, 14 metres high, casts a shadow of 10 metres. Find the height of a tree that casts a shadow of 15 metres under similar conditions.
+Choices:
+  A: 21
+  B: 22
+  C: 20
+  D: 23
+  E: 24
+Response 0:
+We can use a proportion to solve the problem. 
+
+Let x be the height of the tree. Then we have:
+
+   height of pole / length of pole shadow = height of tree / length of tree shadow
+
+   14 / 10 = x / 15
+
+Simplifying the equation, we get:
+
+   x = (14 /10) * 15 = 21
+
+Therefore, the height of the tree is 21 meters.
+
+Answer: Answer("A")
+Response 1:
+Action: Answer("B")  
+The correct answer is B: 22.
+Let x be the height of the tree in metres.
+We can set up the proportion: 
+  tree height / tree shadow = electric pole height / electric pole shadow
+  x / 15 = 14 / 10
+Simplifying this proportion, we get: 
+  x = (15 * 14) / 10
+  x = 21
+Therefore, the height of the tree is 21 metres.
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("D")
+Response 9:
+Action: Answer("C")
+Votes: A, B, D, D, D, D, D, D, D, C
+Agent Answer: D
+Correct Answer: A
+Score: 0
+Tokens: 503
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 9 of 100 ###
+Topic: Math
+Question: At what price should the Karan mark a sewing machine that costs him Rs. 1200/- so that even after offering a 20% discount, he makes 20% profit?
+Choices:
+  A: 1,879
+  B: 1,875
+  C: 1,876
+  D: 1,872
+  E: 1,800
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("C")
+Votes: B, C, B, C, B, C, C, C, B, C
+Agent Answer: C
+Correct Answer: E
+Score: 0
+Tokens: 328
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 10 of 100 ###
+Topic: Math
+Question: John would make the 3-letter codes with diffenrent 5 vowels and 20 consonants with the condition that the middle letter must be vowel and the first letter and the third letter must be different from each other and are both consonant. How many different codes can be made?
+Choices:
+  A: 1,980
+  B: 2,020
+  C: 2,100
+  D: 2,200
+  E: 1,900
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("A")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("C")  
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("A")
+Votes: A, C, D, B, A, C, A, C, C, A
+Agent Answer: C
+Correct Answer: E
+Score: 0
+Tokens: 349
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 11 of 100 ###
+Topic: Math
+Question: At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day?
+Choices:
+  A: 4,000
+  B: 4,200
+  C: 4,500
+  D: 4,800
+  E: 5,000
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("E")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: A, E, D, C, D, C, B, B, C, C
+Agent Answer: C
+Correct Answer: A
+Score: 0
+Tokens: 347
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 12 of 100 ###
+Topic: Math
+Question: M men agree to purchase a gift for Rs. D. If 3 men drop out how much more will each have to contribute towards the purchase of the gift?
+Choices:
+  A: D/(M-3)
+  B: MD/3
+  C: M/(D-3)
+  D: 3D/(M2-3M)
+  E: None of these
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("A")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("A")
+Response 5:
+Action: Answer("A")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("A")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("D")
+Votes: D, A, A, D, A, A, A, A, A, D
+Agent Answer: A
+Correct Answer: D
+Score: 0
+Tokens: 328
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 13 of 100 ###
+Topic: Math
+Question: Add: +45 and -30
+Choices:
+  A: -30
+  B: +30
+  C: 0
+  D: 15
+  E: -15
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("D")
+Response 9:
+Action: Answer("D")
+Votes: D, D, D, D, D, D, D, D, D, D
+Agent Answer: D
+Correct Answer: D
+Score: 1
+Tokens: 288
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 14 of 100 ###
+Topic: Math
+Question: My wall contains 8 red colour ties, 13 violet colour ties,10 blue colour ties, 5 pink colour ties, 4 green colour ties. If electricity is gone and I want at least two ties of same colour then how many ties I should take out from my rack?
+Choices:
+  A: 2
+  B: 3
+  C: 4
+  D: 5
+  E: 6
+Response 0:
+Action: Answer("E")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: E, D, C, C, C, C, C, C, C, C
+Agent Answer: C
+Correct Answer: E
+Score: 0
+Tokens: 338
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 15 of 100 ###
+Topic: Math
+Question: The events A and B are independent. The probability that event A occurs is 0.6, and the probability that at least one of the events A or B occurs is 0.96. What is the probability that event B occurs?
+Choices:
+  A: 0.5
+  B: 0.6
+  C: 0.7
+  D: 0.8
+  E: 0.9
+Response 0:
+Let P(B) be the probability of occurrence of event B. 
+
+The probability that at least one of the events A or B occurs is given by: P(A U B) = 0.96.
+
+Using the formula for the probability of the union of two events:
+        P(A U B) = P(A) + P(B) - P(A n B),
+        where P(A n B) is the probability of the intersection of events A and B.
+
+Since A and B are independent, P(A n B) = P(A) * P(B) 
+(Recall that for independent events A and B, P(A n B) = P(A) * P(B))
+
+Substituting the given values in the formula: 
+
+  0.96 = 0.6 + P(B) - 0.6P(B)
+  0.96 - 0.6 = 0.4P(B)
+  P(B) = (0.96 - 0.6) / 0.4
+  P(B) = 0.9
+
+Therefore, the probability that event B occurs is 0.9.
+
+Answer: Answer("E")
+Response 1:
+Let P(B) be the probability that B occurs.  
+Then the probability that at least one of A or B occurs is P(A) + P(B) - P(A and B), since the event of both A and B occurring is counted twice.
+
+Since A and B are independent, P(A and B) = P(A) * P(B)
+
+So we have the equation:
+  0.96 = 0.6 + P(B) - (0.6 * P(B))
+
+Solving for P(B), we get:
+  P(B) = (0.96 - 0.6) / (1 - 0.6)
+       = 0.36 / 0.4
+       = 0.9
+
+Therefore, the answer is: 
+
+Action: Answer("E")
+Response 2:
+Action: Answer("C")
+Response 3:
+Let's start solving the problem by using the formula for the probability of the union of two events: P(A U B) = P(A) + P(B) - P(A ∩ B), where P(A U B) is the probability that at least one of the events A or B occurs, and P(A ∩ B) is the probability that both A and B occur. Since events A and B are independent, P(A ∩ B) = P(A) * P(B). Substituting the values we know, we get:
+
+0.96 = 0.6 + P(B) - 0.6 * P(B)
+0.96 = 0.6(1 + P(B))
+1 + P(B) = 1.6
+P(B) = 0.6
+
+Therefore, the probability that event B occurs is 0.6.
+
+Action: Answer("B")
+Response 4:
+Let P(B) be the probability of event B.
+Since A and B are independent, P(A and B) = P(A) * P(B).
+
+P(A or B) = P(A) + P(B) - P(A and B)
+
+Substituting the values given, we get:
+0.96 = 0.6 + P(B) - (0.6 * P(B))
+0.96 = 0.6 + 0.4 * P(B)
+0.36 = 0.4 * P(B)
+P(B) = 0.36 / 0.4 = 0.9
+
+Answer: Answer("E")
+Response 5:
+Let P(B) be the probability that event B occurs. We know that P(A) = 0.6 and that P(A or B) = 0.96.
+
+We can use the formula P(A or B) = P(A) + P(B) - P(A and B), where P(A and B) is the probability that both event A and event B occur.
+
+Since events A and B are independent, we have P(A and B) = P(A)·P(B).
+
+Substituting these expressions into the formula, we get:
+
+  0.96 = 0.6 + P(B) - 0.6P(B)
+  0.36 = 0.4P(B)
+  P(B) = 0.36/0.4
+  P(B) = 0.9
+
+Therefore, the probability that event B occurs is 0.9. Answer("E")
+Response 6:
+Let P(B) = x. 
+
+P(A or B) = P(A) + P(B) - P(A and B)
+
+Given that A and B are independent, the probability of their intersection (i.e. both happening at the same time) is P(A and B) = P(A) * P(B) 
+
+Putting this all together, we get:
+
+0.96 = 0.6 + x - (0.6 * x)
+
+Solving for x, we get:
+
+x = 0.8
+
+So the probability that event B occurs is 0.8.
+
+Action: Answer("D")
+Response 7:
+Let P(B) = x. Then, P(A U B) = P(A) + P(B) - P(A ∩ B) = 0.6 + x - (0.6)(x) = 0.96
+Solving the equation above, we get x = 0.8
+Therefore, the probability that event B occurs is 0.8.
+ 
+Action: Answer("D")
+Response 8:
+Let P(B) = x. 
+As A and B are independent, P(A and B) = P(A)P(B)
+=> P(A and B) = 0.6x
+We know that at least one of the events A or B will occur, 
+P(A or B) = P(A) + P(B) - P(A and B)
+0.96 = 0.6 + x - 0.6x
+Solving this equation,
+x = 0.8
+
+Answer: Answer("D")
+Response 9:
+Let's use the formula P(A or B) = P(A) + P(B) - P(A and B) to solve the problem. Since events A and B are independent, P(A and B) = P(A) * P(B). Let x be the probability that event B occurs. We can set up the equation 0.96 = 0.6 + x - 0.6x and solve for x.
+
+Action: Answer("C")
+Votes: E, E, C, B, E, E, D, D, D, C
+Agent Answer: E
+Correct Answer: E
+Score: 1
+Tokens: 1618
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 16 of 100 ###
+Topic: Math
+Question: The price of a product is reduced by 30% . By what percentage should it be increased to make it 100%
+Choices:
+  A: 41.86%
+  B: 42.86%
+  C: 43.86%
+  D: 44.86%
+  E: 45.86%
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("B")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("B")
+Votes: B, B, B, B, B, B, B, B, B, B
+Agent Answer: B
+Correct Answer: B
+Score: 1
+Tokens: 316
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 17 of 100 ###
+Topic: Math
+Question: Two balls A and B rotate along a circular track. Ball A makes 2 full rotations in 26 minutes. Ball B makes 5 full rotation in 35 minutes. If they start rotating now from the same point, when will they be at the same starting point again?
+Choices:
+  A: 1 hour and 31 minutes
+  B: 2 hour and 31 minutes
+  C: 3 hour and 31 minutes
+  D: 4 hour and 31 minutes
+  E: 5 hour and 31 minutes
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("B")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("B")
+Votes: B, B, B, B, B, B, B, B, B, B
+Agent Answer: B
+Correct Answer: A
+Score: 0
+Tokens: 361
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 18 of 100 ###
+Topic: Math
+Question: A flagstaff 17.5 metre high casts a shadow of length 40.25 metre. The height of building, which casts a shadow of length 28.75 metre under similar conditions will be :
+Choices:
+  A: 12 metre
+  B: 12.5 metre
+  C: 13.5 metre
+  D: 14 metre
+  E: 15 metre
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("A")
+Votes: C, C, C, C, B, C, A, D, B, A
+Agent Answer: C
+Correct Answer: B
+Score: 0
+Tokens: 331
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 19 of 100 ###
+Topic: Math
+Question: Suppose you want to arrange your English, Hindi, Mathematics, History, Geography and Science books on a shelf. In how many ways can you do it ?
+Choices:
+  A: 520
+  B: 720
+  C: 920
+  D: None
+  E: Cannot be determined
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("B")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("B")
+Votes: B, B, B, B, B, B, B, B, B, B
+Agent Answer: B
+Correct Answer: B
+Score: 1
+Tokens: 311
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 20 of 100 ###
+Topic: Math
+Question: An exam is given in a certain class. The average (arithmetic mean) of the highest score and the lowest score is equal to x. If the average score for the entire class is equal to y and there are z students in the class, where z > 5, then in terms of x, y, and z, what is the average score for the class excluding the highest and lowest scorers?
+Choices:
+  A: (zy – 2x)/z
+  B: (zy – 2)/z
+  C: (zx – y)/(z – 2)
+  D: (zy – 2x)/(z -2)
+  E: (zy – x)/(z + 2)
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("D")
+Response 9:
+Action: Answer("D")
+Votes: D, D, D, D, D, D, D, D, D, D
+Agent Answer: D
+Correct Answer: D
+Score: 1
+Tokens: 397
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 21 of 100 ###
+Topic: Math
+Question: Silu and Meenu were walking on the road.
+Silu said, "I weigh 51 Kgs. How much do you weigh?"
+Meenu replied that she wouldn't reveal her weight directly as she is overweight.
+But she said, "I weigh 29 Kgs plus half of my weight. "How much does Meenu weigh?
+Choices:
+  A: 12
+  B: 28
+  C: 27
+  D: 58
+  E: 91
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+Let's call Meenu's weight "M". According to the information provided:
+M = 29 + 1/2*M
+Solving for M:
+M - 1/2*M = 29
+1/2*M = 29
+M = 58
+So Meenu weighs 58 kgs.
+Action: Answer("D")
+Response 5:
+Let's represent Meenu's weight as "w". 
+According to the information given in the problem, Meenu weighs 29 Kgs plus half of her weight: 29 + (1/2)w.
+To find Meenu's weight, we can set up an equation: 
+w = 29 + (1/2)w
+Solving for w: 
+(1/2)w = 29
+w = 58
+
+Answer: Answer("D")
+Response 6:
+Action: Answer("C")
+Response 7:
+Let's first simplify Meenu's statement: she weighs 29 Kgs plus 0.5 times her weight, or 29 + 0.5w = w + 29.
+Subtracting 29 from both sides we get 0.5w = w - 29 which simplifies to 0.5w = -29.
+Multiplying both sides by 2 we get w = -58. 
+
+Since a negative weight doesn't make sense, so we need to reject this solution.
+
+Action: Answer("E")
+Response 8:
+Action: Answer("C")
+Response 9:
+Let's use algebra to solve the problem.
+Let's assume that Meenu's weight is "w".
+From the given information, we can set up an equation:
+w = 29 + 0.5w
+
+Now, we can solve for "w":
+0.5w = 29
+w = 29/0.5 = 58
+
+So, Meenu weighs 58 Kgs.
+ 
+Action: Answer("D")
+Votes: C, C, C, C, D, D, C, E, C, D
+Agent Answer: C
+Correct Answer: D
+Score: 0
+Tokens: 695
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 22 of 100 ###
+Topic: Math
+Question: An astronaut weighing 211 pounds on Earth would weigh 182 pounds on Venus. The weight of the astronaut on Venus would be approximately what percent of the astronaut’s weight on Earth?
+Choices:
+  A: 50%
+  B: 60%
+  C: 70%
+  D: 86%
+  E: 90%
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("D")
+Response 9:
+Action: Answer("D")
+Votes: D, D, D, D, D, D, D, D, D, D
+Agent Answer: D
+Correct Answer: D
+Score: 1
+Tokens: 317
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 23 of 100 ###
+Topic: Math
+Question: At its maximum speed, a space shuttle can travel 700m high in 40 seconds. It will also take 5 seconds to pass a point. What then is the length of the space shuttle?
+Choices:
+  A: 50 m
+  B: 75 m
+  C: 100 m
+  D: 125 m
+  E: 150 m
+Response 0:
+Action: Answer("C")
+Response 1:
+First, let's calculate the speed of the space shuttle. 
+
+Action: Answer("A")
+
+The space shuttle can travel 700m in 40 seconds at its maximum speed. 
+
+So, its speed is: 
+
+speed = distance / time 
+speed = 700 m / 40 s 
+speed = 17.5 m/s 
+
+Now, we need to find the length of the space shuttle. 
+
+We know that it takes the space shuttle 5 seconds to pass a point. Let's call the length of the space shuttle "x". 
+
+During these 5 seconds, the space shuttle would have traveled: 
+
+distance = speed x time 
+distance = 17.5 m/s x 5 s 
+distance = 87.5 m 
+
+However, this distance includes the length of the space shuttle itself. So, we need to subtract the length of the space shuttle from 87.5 m: 
+
+87.5 m - x = length of shuttle 
+
+Finally, we can solve for x: 
+
+87.5 m - x = length of shuttle 
+x = 87.5 m - length of shuttle 
+
+Since we want to find the length of the space shuttle, we can assign x as the length of the shuttle: 
+
+x = 87.5 m - x 
+2x = 87.5 m 
+x = 43.75 m 
+
+Therefore, the length of the space shuttle is approximately 43.75m. 
+
+Action: Answer("None of the Above") [Correct answer is not in the choices, so we select "None of the Above"]
+Response 2:
+Action: Answer("E")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("C")
+Votes: C, A, E, C, D, D, D, C, B, C
+Agent Answer: C
+Correct Answer: C
+Score: 1
+Tokens: 644
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 24 of 100 ###
+Topic: Math
+Question: Alice wants to put up fencing around three sides of her rectangular yard and leave one side of 10 meters unfenced. If the yard has an area of 240 square meters, how many meters of fencing does she need?
+Choices:
+  A: 58
+  B: 62
+  C: 66
+  D: 70
+  E: 74
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("E")
+Votes: D, C, C, D, D, C, B, E, C, E
+Agent Answer: C
+Correct Answer: A
+Score: 0
+Tokens: 325
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 25 of 100 ###
+Topic: Math
+Question: A sporting goods store carries only yellow and white golf balls. At the beginning of the day it had 600 golf balls in stock, and by the end of the day it had sold 80% of its inventory of golf balls. If the store sold an equal number of yellow and white golf balls, and in doing so sold all of its white golf balls, how many yellow golf balls did the store have to begin the day?
+Choices:
+  A: 80
+  B: 120
+  C: 240
+  D: 320
+  E: 360
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("D")
+Response 2:
+Let's use algebra to solve the problem. Let Y be the number of yellow golf balls at the beginning of the day. We are given that the store had 600 golf balls in total, which means that the number of white golf balls is (600 - Y). At the end of the day, the store sold 80% of its inventory, which means it sold 0.8*600 = 480 golf balls. Since the store sold an equal number of yellow and white golf balls, and sold all of its white golf balls, it sold (600 - Y) white golf balls. That means it also sold (600 - Y) yellow golf balls. 
+
+We can set up an equation based on the information above and solve for Y:
+(600 - Y) + (600 - Y) = 480
+Simplifying this equation:
+1200 - 2Y = 480
+Subtracting 1200 from both sides:
+-2Y = -720
+Dividing by -2:
+Y = 360
+
+Therefore, the store had 360 yellow golf balls at the beginning of the day.
+
+Action: Answer("E")
+Response 3:
+Solution: 
+
+Let y = number of yellow golf balls in stock at the beginning of the day
+Let w = number of white golf balls in stock at the beginning of the day
+
+We know that at the beginning of the day, the store had 600 golf balls in stock: 
+
+y + w = 600 
+
+We also know that the store sold 80% of its inventory of golf balls by the end of the day, which means that it sold 0.8(600) = 480 golf balls. 
+
+Since the store sold an equal number of yellow and white golf balls, and sold all of its white golf balls, we can set up the following equation: 
+
+0.5y = 480 
+
+Solving for y: 
+
+y = 960 
+
+Therefore, the store had 960 yellow golf balls at the beginning of the day. 
+
+Answer: Answer("E")
+Response 4:
+Let x be the number of white golf balls.
+Thus, the total number of golf balls is 2x, and after selling 80%, the store had sold 0.8 * 600 = 480 golf balls.
+Since the number of yellow balls sold equals the number of white balls sold at the end of the day, the store sold x white golf balls.
+Then the store sold (2x - x) = x yellow golf balls.
+Since the store sold all of the white golf balls, they sold x white and thus the store began the day with (2x - x) + x = 2x yellow golf balls.
+We can now find x:
+480 balls = 0.8 * (2x) <- Equation 1
+Solving for x:
+2x = 600
+x = 300
+
+Using the above derivation, the store had 2x = 2 * 300 = 600 golf balls at the beginning, which were yellow golf balls.
+
+Action: Answer("E")
+Response 5:
+Let's work it out together.
+
+The store sold 80% of its inventory of golf balls. Therefore, it sold 80/100 * 600 = <<80/100*600=480>>480 golf balls.
+Since the store sold an equal number of yellow and white golf balls, it sold 240 white golf balls because 480/2 = <<480/2=240>>240
+Thus, at the beginning of the day, the store had 600 - 240 = <<600-240=360>>360 yellow golf balls in stock.
+
+Action: Answer("E")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("C")
+Response 9:
+Let x be the number of yellow golf balls that the store had to begin the day.
+* The total number of golf balls that the store had in stock is 600.
+* The store sold 80% of its stock, which means that it sold 0.8*600 = <<0.8*600=480>>480 golf balls.
+* The store sold an equal number of yellow and white golf balls, which means that it sold 240 yellow golf balls.
+* In doing so, the store sold all of its white golf balls, which means that the store had none left to begin the day.
+* Therefore, the store must have had 240 yellow golf balls to begin the day.
+
+Action: Answer("C")
+Votes: C, D, E, E, E, E, C, D, C, C
+Agent Answer: E
+Correct Answer: E
+Score: 1
+Tokens: 1227
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 26 of 100 ###
+Topic: Math
+Question: The bus fare for two persons for travelling between Agra and Aligarh id four-thirds the train fare between the same places for one person. The total fare paid by 6 persons travelling by bus and 8 persons travelling by train between the two places is Rs.1512. Find the train fare between the two places for one person?
+Choices:
+  A: 126
+  B: 77
+  C: 88
+  D: 66
+  E: 54
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("A")
+Votes: A, C, B, C, C, C, C, C, B, A
+Agent Answer: C
+Correct Answer: A
+Score: 0
+Tokens: 349
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 27 of 100 ###
+Topic: Math
+Question: Jim filled his dog's bowl with dog food. Starting at 8:00 am, Jim's dog ate exactly once an hour, consuming exactly 1/3 of the dog food remaining in the bowl at each feeding session. Approximately, what percent of the original food was in the dog's bowl right before the dog began to eat at noon of the same day?
+Choices:
+  A: 20%
+  B: 25%
+  C: 30%
+  D: 35%
+  E: 40%
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("E")
+Votes: C, C, C, C, C, C, D, E, C, E
+Agent Answer: C
+Correct Answer: A
+Score: 0
+Tokens: 355
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 28 of 100 ###
+Topic: Math
+Question: Anna is able to buy 5 more articles for $300 after the price of each article decreased by 15%. What is the new selling price of each article?
+Choices:
+  A: $8
+  B: $10
+  C: $13.6
+  D: $22.9
+  E: $40
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("B")
+Votes: B, C, B, C, C, C, C, C, A, B
+Agent Answer: C
+Correct Answer: C
+Score: 1
+Tokens: 317
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 29 of 100 ###
+Topic: Math
+Question: A rope 20 meters long is cut into two pieces. If the length of one piece of rope is 3 meters shorter than the length of the other, what is the length, in meters, of the longer piece of rope?
+Choices:
+  A: 7.5
+  B: 8.9
+  C: 9.9
+  D: 11.5
+  E: 11.7
+Response 0:
+Let x be the length of the longer piece of rope. We know that the length of the shorter piece is 3 meters less than the length of the longer piece, which means its length is x - 3 meters. We also know that the sum of the lengths of the two pieces is 20 meters, so we can write an equation:
+
+x + (x - 3) = 20
+
+Simplifying this equation, we get:
+
+2x - 3 = 20
+
+Adding 3 to both sides, we get:
+
+2x = 23
+
+Dividing both sides by 2, we get:
+
+x = 11.5
+
+Therefore, the length of the longer piece of rope is 11.5 meters, which is answer D. 
+
+Action: Answer("D")
+Response 1:
+Let's call the length of the longer piece of rope "x". 
+The length of the shorter piece of rope will be "x-3". 
+We know that the total length of the two pieces of rope is 20 meters, so we can set up an equation:
+
+x + (x-3) = 20 
+
+Simplifying the equation, we get:
+
+2x - 3 = 20 
+
+Adding 3 to both sides, we get:
+
+2x = 23 
+
+Dividing by 2, we get:
+
+x = 11.5 
+
+So the longer piece of rope is 11.5 meters long.
+
+Action: Answer("D")
+Response 2:
+Let X be the length of the longer piece and Y be the length of the shorter piece. Our goal is to find X. 
+
+We know that X + Y = 20 (since the total rope length is 20 meters).  
+We also know that X = Y + 3 (since the length of one piece of rope is 3 meters shorter than the length of the other). 
+
+We can substitute the second equation into the first equation to get: 
+Y + 3 + Y = 20 
+2Y + 3 = 20 
+2Y = 17 
+Y = 8.5 
+
+Now we know that the length of the shorter piece is 8.5 meters. We can substitute this back into the second equation to get:
+X = Y + 3 = 8.5 + 3 = 11.5 
+
+Therefore, the length of the longer piece of rope is 11.5 meters. 
+
+Action: Answer("D")
+Response 3:
+Let's represent the length of the longer piece of rope as x meters. The length of the shorter piece of rope is 3 meters less than x, so it is (x - 3) meters long. Together, the two pieces of rope add up to the original length of 20 meters, so:
+
+x + (x -3) = 20
+
+Simplifying the equation, we get:
+
+2x - 3 = 20
+
+Adding 3 to both sides:
+
+2x = 23
+
+Dividing by 2:
+
+x = 11.5
+
+Therefore, the length of the longer piece of rope is 11.5 meters.
+
+Action: Answer("D")
+Response 4:
+Let's denote the length of the shorter piece of rope as x.  
+Then, we know that the length of the longer piece of rope will be (x+3) since it's 3 meters longer than the shorter piece.  
+We also know that the lengths of both pieces add up to 20 meters, so:  
+x + (x+3) = 20  
+2x + 3 = 20  
+2x = 17  
+x = 8.5  
+
+Therefore, the length of the longer piece of rope would be:  
+x + 3 = 8.5 + 3 = 11.5  
+
+Answer: Answer("D")
+Response 5:
+Let's denote the length of the longer piece of rope as x. Then, the length of the shorter piece of rope would be (x - 3). We know that the total length of the rope is 20 meters. Putting it all together, we can create an equation:
+
+x + (x - 3) = 20
+
+Simplifying the left side:
+
+2x - 3 = 20
+
+Adding 3 to both sides:
+
+2x = 23
+
+Dividing both sides by 2:
+
+x = 11.5
+
+Therefore, the length of the longer piece of rope is 11.5 meters. 
+
+Action: Answer("D")
+Response 6:
+Let the length of the longer piece of rope be x meters.
+The length of the shorter piece of rope is then (x - 3) meters.
+The sum of the lengths of the two pieces of rope is equal to the original length: x + (x - 3) = 20.
+Simplifying the equation gives 2x - 3 = 20, and solving for x gives x = 11.5.
+
+Action: Answer("D")
+Response 7:
+Let x denote the length in meters of the longer piece of rope. Then, the length in meters of the shorter rope is x - 3. We know that both the long and short rope add up to 20 meters, therefore:
+
+x + (x-3) = 20
+
+If we solve for x, we get:
+
+2x = 23
+
+x = 11.5
+
+Therefore, the length, in meters, of the longer piece of rope is 11.5.
+
+Action: Answer("D")
+Response 8:
+Let L be the length of the longer piece of rope. We know that the length of the shorter piece is 3 meters less than the longer piece. So the length of the shorter piece is (L-3). We also know that the length of the two pieces together is 20 meters. 
+
+L + (L-3) = 20 
+2L - 3 = 20 
+2L = 23 
+L = 11.5 
+
+So the length of the longer piece of rope is 11.5 meters. 
+
+Action: Answer("D")
+Response 9:
+Let x be the length of the longer piece of rope. Then, the length of the shorter piece is x - 3. The sum of their lengths is equal to the length of the entire rope: 
+
+x + (x-3) = 20 
+
+Simplifying the equation, 
+
+2x - 3 = 20 
+
+Adding 3 to both sides, 
+
+2x = 23 
+
+Dividing both sides by 2, 
+
+x = 11.5 
+
+Therefore, the longer piece of rope is 11.5 meters long. 
+
+Action: Answer("D")
+Votes: D, D, D, D, D, D, D, D, D, D
+Agent Answer: D
+Correct Answer: D
+Score: 1
+Tokens: 1632
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 30 of 100 ###
+Topic: Math
+Question: In a survey of students, each student selected from a list of 10 songs the 2 songs that the student liked best. If each song was selected 5 times, how many students were surveyed?
+Choices:
+  A: 96
+  B: 48
+  C: 32
+  D: 25
+  E: 18
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("D")
+Response 9:
+Action: Answer("D")
+Votes: D, C, D, D, D, C, C, D, D, D
+Agent Answer: D
+Correct Answer: D
+Score: 1
+Tokens: 321
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 31 of 100 ###
+Topic: Math
+Question: The original retail price of an appliance was 60 percent more than its wholesale cost. If the appliance was actually sold for 20 percent less than the original retail price, then it was sold for what percent more than its wholesale cost?
+Choices:
+  A: 20%
+  B: 28%
+  C: 36%
+  D: 40%
+  E: 42%
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("B")
+Votes: B, C, B, D, B, B, B, B, B, B
+Agent Answer: B
+Correct Answer: B
+Score: 1
+Tokens: 328
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 32 of 100 ###
+Topic: Math
+Question: When folded into two equal halves a rectangular sheet had a perimeter of 48cm for each part folded along one set of sides and the same is 66cm when folded along the other set of sides. Find the area of the sheet.
+Choices:
+  A: 1584
+  B: 1120
+  C: 792
+  D: 1320
+  E: 1200
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("A")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("D")
+Response 9:
+Action: Answer("B")
+Votes: D, A, A, D, D, B, D, D, D, B
+Agent Answer: D
+Correct Answer: B
+Score: 0
+Tokens: 332
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 33 of 100 ###
+Topic: Math
+Question: On a normal day Bill usually averages about 15 mph when riding his bicycle. On a windy day, his speed is reduced by 4 mph. How far can Bill travel on a windy day in 21 minutes? Round to the nearest hundredth.
+Choices:
+  A: 2 miles
+  B: 2.25 miles
+  C: 3.25 miles
+  D: 3.85 miles
+  E: 2.85 miles
+Response 0:
+Let's use Distance = Rate x Time
+On a normal day, Bill's rate is 15 mph, let's calculate Bill's rate on a windy day: 15 mph - 4 mph = 11 mph.
+21 minutes is 0.35 hours, therefore Distance = 11 mph x 0.35 hours = 3.85 miles.
+Action: Answer("D")
+Response 1:
+Action: Answer("E")
+Response 2:
+Action: Answer("E")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("D")
+Response 5:
+First, we need to convert the time to hours. 21 minutes is equal to 0.35 hours. 
+
+On a windy day, Bill's speed is reduced to 15-4 = 11 mph. 
+
+To find the distance he can travel, we multiply the time by the speed: 
+
+distance = time * speed = 0.35 * 11 = 3.85 miles 
+
+Therefore, the answer is D. 
+
+Action: Answer("D")
+Response 6:
+Action: Answer("E")
+Response 7:
+Action: Answer("E")
+Response 8:
+First, we need to convert 21 minutes to hours:
+21 minutes / 60 minutes/hour = 0.35 hours
+On a windy day, Bill's speed is 15 mph - 4 mph = 11 mph
+Distance = Speed * Time
+Distance = 11 mph * 0.35 hours
+Distance = 3.85 miles
+
+Answer: Answer("D")
+Response 9:
+First, we need to convert 21 minutes into hours: `(21 minutes) / (60 minutes per hour) = 0.35 hours`
+
+On a windy day: `speed = 15 mph - 4 mph = 11 mph`
+
+Distance = Speed × Time:
+`distance = 11 mph × 0.35 hours = 3.85 miles`
+
+So the answer is D. 'Answer("D")'
+Votes: D, E, E, D, D, D, E, E, D, D
+Agent Answer: D
+Correct Answer: D
+Score: 1
+Tokens: 662
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 34 of 100 ###
+Topic: Math
+Question: In a bag of red and green sweets, the ratio of red sweets to green sweets is 3:4. If the bag contains 120 green sweets, how many red sweets are there?
+Choices:
+  A: 90
+  B: 80
+  C: 95
+  D: 100
+  E: 85
+Response 0:
+Let's start by finding out the ratio of red sweets to green sweets as a fraction. We know that for every 4 parts of green sweets, there are 3 parts of red sweets. This can be represented as 3/7. 
+If we know that there are 120 green sweets, we can set up the following equation:
+
+3/7 = x/120
+
+where x represents the number of red sweets. 
+
+To solve for x, we can simplify the equation by cross-multiplying:
+
+7x = 3 * 120
+x = 360/7
+
+This is approximately 51.4, but since we can't have a fraction of a sweet, we round up to the nearest whole number. 
+
+Therefore, there are 52 red sweets in the bag.
+
+Action: Answer("None of the Above") [since none of the given choices is the correct answer]
+Response 1:
+Let the number of red sweets be 3x (since the ratio of red sweets to green sweets is 3:4).
+According to the problem, the number of green sweets is 120. Thus, the number of green sweets is 4x (since the ratio of red sweets to green sweets is 3:4).
+Then, we can use this equation to solve for x:
+4x = 120
+x = 30
+
+To find the number of red sweets, we can substitute x = 30 into the equation 3x:
+3x = 3(30) = 90
+
+Therefore, there are 90 red sweets in the bag. 
+Action: Answer("A")
+Response 2:
+Action: Answer("A")
+Response 3:
+We can begin solving this problem by using ratios. The ratio of red sweets to green sweets in the bag is given as 3:4. This means that for every 3 red sweets there are 4 green sweets. We are also given that there are 120 green sweets in the bag. 
+
+Let's use these two pieces of information to find the total number of sweets in the bag. 
+
+If the ratio of red sweets to green sweets is 3:4, then the ratio of the total number of sweets to the number of green sweets is 3:4 as well. Let's use "x" to represent the total number of sweets in the bag: 
+
+3/4 = x/120 
+
+To solve for x, we can cross-multiply: 
+
+3 × 120 = 4 × x 
+
+360 = 4x 
+
+x = 90 
+
+So the bag contains a total of 90 sweets. 
+
+Finally, we can use the ratio of red sweets to green sweets to find the number of red sweets in the bag. 
+
+If there are 3 red sweets for every 4 green sweets, that means the ratio of red sweets to the total number of sweets is 3:7 (since 3 + 4 = 7). 
+
+So out of the 90 sweets in the bag, we can find the number of red sweets as: 
+
+3/7 × 90 = 30 
+
+Therefore, there are 30 red sweets in the bag. 
+
+Answer: Action: Answer("A")
+Response 4:
+Solution: 
+
+Let x be the number of red sweets.
+
+According to the problem, the ratio of red sweets to green sweets is 3:4, which means we can write:
+
+x/120 = 3/4
+
+To solve for x, we cross-multiply:
+
+4x = 360
+
+x = 90
+
+Therefore, there are 90 red sweets.
+
+Answer: Answer("A")
+Response 5:
+Let R be the number of red sweets in the bag. 
+
+We know the ratio of red sweets to green sweets is 3:4. Thus, we can represent the number of green sweets as (4/(3+4)) x (R + 120) = 4(R + 120)/7. 
+
+We know that the bag contains 120 green sweets, so we can set up the equation: 
+
+4(R + 120)/7 = 120 
+
+Simplifying this equation gives us R = 90. 
+
+Therefore, there are 90 red sweets in the bag. 
+
+Action: Answer("A")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("A")
+Response 8:
+Let's start by finding the total number of sweets in the bag:
+
+3/4 (total sweets) =  ratio of red to green sweets
+
+We know that there are 4 parts (green sweets) in the ratio and we are told that there are 120 green sweets. This means that each part is 120/4 = 30.
+
+Now that we know that each part is 30, we can calculate the total number of sweets:
+
+3 x 30 = 90
+
+Answer: Action: Answer("A")
+Response 9:
+Action: Answer("A")
+Votes: N, A, A, A, A, A, A, A, A, A
+Agent Answer: A
+Correct Answer: A
+Score: 1
+Tokens: 1237
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 35 of 100 ###
+Topic: Math
+Question: A number of friends decided to go on a picnic and planned to spend Rs. 96 on eatables. Four of them, however, did not turn up. As a consequence, the remaining ones had to contribute Rs. 4 extra, each. The number of those who attended the picnic was
+Choices:
+  A: 8
+  B: 12
+  C: 16
+  D: 24
+  E: 25
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("A")
+Response 3:
+Action: Answer("A")
+Response 4:
+Action: Answer("A")
+Response 5:
+Action: Answer("A")  
+The problem can be solved using algebra.
+Let "x" be the number of friends who planned to go on a picnic.
+Total amount they should contribute = Rs. 96
+Each person should have contributed = 96/x
+But, as four of them did not show up, the amount got divided among (x-4) persons and each had to contribute 4 rupees extra. So, the new amount each person contributed = (96+(4*(x-4))) / (x-4) = (96/x) + 4
+Now, we can equate both and solve for x:
+(96/x) + 4 = 96/x
+4 = 96/x - 96/x
+4 = 96*(1/x - 1/(x-4))
+1/x - 1/(x-4) = 1/24
+Solving for x, we get x=8. Therefore, the number of those who attended the picnic was 8.
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("A")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("A")
+Votes: A, A, A, A, A, A, A, A, A, A
+Agent Answer: A
+Correct Answer: A
+Score: 1
+Tokens: 544
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 36 of 100 ###
+Topic: Math
+Question: What is 60% of 30% of 1400 grams?
+Choices:
+  A: 450 gms
+  B: 100 gms
+  C: 252 gms
+  D: 240 gms
+  E: None of these
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("D") 
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: C, D, D, D, D, D, D, D, C, C
+Agent Answer: D
+Correct Answer: C
+Score: 0
+Tokens: 305
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 37 of 100 ###
+Topic: Math
+Question: there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school?
+Choices:
+  A: 550
+  B: 570
+  C: 600
+  D: 700
+  E: none of these
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("A") 
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("B")
+Votes: A, A, B, B, B, B, B, B, B, B
+Agent Answer: B
+Correct Answer: E
+Score: 0
+Tokens: 325
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 38 of 100 ###
+Topic: Math
+Question: Two cars are travelling from the same starting point in the same direction, having started their commute at the same time. The first car travels at a steady rate of 55 mph, while the second travels at a steady rate of 52 mph. How much time will pass before the cars are 15 miles away from each other?
+Choices:
+  A: 3 hours
+  B: 5 hours
+  C: 6 hours
+  D: 4 hours
+  E: 7 hours
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("D")
+Votes: B, D, D, B, D, D, A, D, B, D
+Agent Answer: D
+Correct Answer: B
+Score: 0
+Tokens: 351
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 39 of 100 ###
+Topic: Math
+Question: A man wants to eat fruit for breakfast and vegetable for dinner. He has 6 different types of fruit and 8 different types of vegetables. He can only eat one type at a time. In how many ways can he eat breakfast and dinner.
+Choices:
+  A: 54
+  B: 24
+  C: 48
+  D: 20
+  E: 36
+Response 0:
+Action: Answer("48")
+Response 1:
+Action: Answer("48")
+Response 2:
+Action: Answer("48")
+Response 3:
+Action: Answer("48")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("48")
+Response 6:
+Action: Answer("48")
+Response 7:
+Action: Answer("48")
+Response 8:
+Action: Answer("48")
+Response 9:
+Action: Answer("48")
+Votes: 4, 4, 4, 4, C, 4, 4, 4, 4, 4
+Agent Answer: 4
+Correct Answer: C
+Score: 0
+Tokens: 330
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 40 of 100 ###
+Topic: Math
+Question: Suppose for any real number x, [x] denotes the greatest integer less than or equal to x. Let L(x,y) = [x] + [y] + [x + y] and R(x,y) = [2x] + [2y]. Then it is impossible to find any two positive real numbers x and y for which
+Choices:
+  A: L(x,y) = R(x,y)
+  B: L(x,y) ≠ R(x,y)
+  C: L(x,y) < R(x,y)
+  D: L(x,y) < R(x,y)
+  E: None
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("A")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("A")
+Votes: C, C, C, A, B, C, A, C, B, A
+Agent Answer: C
+Correct Answer: D
+Score: 0
+Tokens: 375
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 41 of 100 ###
+Topic: Math
+Question: While selling a watch, a shopkeeper gives a discount of 5%. If he gives a discount of 7%, he earns Rs. 15 less as profit. The marked price of the watch is:
+Choices:
+  A: Rs. 697.50
+  B: Rs. 712.50
+  C: Rs. 787.50
+  D: Rs. 750
+  E: Rs. 780
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: D, C, C, D, C, C, D, C, C, C
+Agent Answer: C
+Correct Answer: D
+Score: 0
+Tokens: 338
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 42 of 100 ###
+Topic: Math
+Question: I have a money pouch containing Rs. 700. There are equal number of 25 paise coins, 50 paise coins and one rupee coins.
+How many of each are there?
+Choices:
+  A: 453
+  B: 651
+  C: 400
+  D: 487
+  E: 286
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("E")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("E")
+Response 5:
+Action: Answer("A")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("A")
+Response 8:
+Action: Answer("D")
+Response 9:
+Action: Answer("D")
+Votes: D, E, D, D, E, A, D, A, D, D
+Agent Answer: D
+Correct Answer: C
+Score: 0
+Tokens: 320
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 43 of 100 ###
+Topic: Math
+Question: The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is:
+Choices:
+  A: 2.6m
+  B: 3.9m
+  C: 4m
+  D: 4.2m
+  E: 4.4m
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("B")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("D") 
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: D, B, C, D, D, B, C, B, C, C
+Agent Answer: C
+Correct Answer: C
+Score: 1
+Tokens: 354
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 44 of 100 ###
+Topic: Math
+Question: A man walks at 5 kmph for 6 hrs and at 4 kmph for 12 hrs. His average speed is
+Choices:
+  A: 4 1/3 km/h
+  B: 7 2/3 km/h
+  C: 9 ½ km/h
+  D: 8 km/h
+  E: 81 km/h
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("A")
+Response 3:
+Action: Answer("A")
+Response 4:
+Action: Answer("A")
+Response 5:
+Action: Answer("A")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("A")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("A")
+Votes: A, A, A, A, A, A, A, A, A, A
+Agent Answer: A
+Correct Answer: A
+Score: 1
+Tokens: 328
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 45 of 100 ###
+Topic: Math
+Question: If one third of 3/4 of a number is 21. Then, find the number?
+Choices:
+  A: 84
+  B: 66
+  C: 28
+  D: 19
+  E: 11
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("A")
+Response 3:
+Action: Answer("A")
+Response 4:
+Action: Answer("A")
+Response 5:
+Action: Answer("A")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("A")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("A")
+Votes: A, A, A, A, A, A, B, A, A, A
+Agent Answer: A
+Correct Answer: A
+Score: 1
+Tokens: 301
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 46 of 100 ###
+Topic: Math
+Question: The difference between the squares of two numbers is 256000 and the sum of the numbers is 1000. The numbers are
+Choices:
+  A: 600, 400
+  B: 628, 372
+  C: 640, 360
+  D: None of these
+  E: Cannot be determined
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: C, C, C, B, C, B, C, C, C, C
+Agent Answer: C
+Correct Answer: B
+Score: 0
+Tokens: 318
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 47 of 100 ###
+Topic: Math
+Question: A company produces 420 units of a particular computer component every month, at a production cost to the company of $110 per component, and sells all of the components by the end of each month. What is the minimum selling price per component that will guarantee that the yearly profit (revenue from sales minus production costs) will be at least $626,400 ?
+Choices:
+  A: 226
+  B: 230
+  C: 240
+  D: 260
+  E: 280
+Response 0:
+To find minimum selling price per component that will guarantee at least $626,400 yearly profit, we need to calculate the yearly revenue and then subtract the yearly production cost from that. 
+Yearly production cost = $110 × 420 × 12 = $554,400
+Now we need to find out how much revenue we need to make sure our yearly profit is $626,400. 
+Revenue + $626,400 = $554,400 + (selling price per component × 420 × 12) 
+Solving for selling price,
+selling price per component = (626,400 + 554,400) / (420 × 12) = $230. Therefore, the minimum selling price per component will be $230. 
+
+Action: Answer("B")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("E")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("B")
+Response 5:
+Let "x" be the selling price per component, then the revenue from the sale of each of the 420 components per month is given by 420x dollars. 
+
+The yearly revenue is 12(420x) = 5040x dollars. 
+
+The yearly production cost is 12(420)(110) = 554400 dollars.
+
+Thus, the yearly profit is given by: 12(420x) - 554400 dollars. 
+
+We want to find the minimum selling price x that guarantees a yearly profit of at least 626400 dollars. Therefore, we must solve: 
+
+12(420x) - 554400 >= 626400 
+
+5040x >= 210800 
+
+x >= 41.67 
+
+Therefore, the minimum selling price per component that will guarantee a yearly profit of at least 626400 dollars is $41.67. 
+
+Action: Answer("None of these")
+Response 6:
+Let's first find the yearly revenue from selling 420 units every month for a year (12 months):
+Revenue = 420 * Selling Price * 12
+
+Now, the yearly profit is given by:
+
+Profit = Revenue - Production Cost * Total number of components produced in the year
+Profit = 12 * Selling Price * 420 - 110 * 12 * 420
+
+We need to find the minimum selling price that will guarantee a profit of at least $626,400:
+
+12 * Selling Price * 420 - 110 * 12 * 420 >= 626400
+Selling Price >= (626400 + 554400) / (12 * 420)
+Selling Price >= 230
+
+Therefore, the answer is A: 226.
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("C")
+Votes: B, C, E, C, B, N, [None], C, B, C
+Agent Answer: C
+Correct Answer: B
+Score: 0
+Tokens: 834
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 48 of 100 ###
+Topic: Math
+Question: If m > 0, y > 0, and x is m percent of 4y, then, in terms of y, m is what percentage of x?
+Choices:
+  A: y/400
+  B: 4y
+  C: 50y
+  D: 2500/y
+  E: 5000/y
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("E")
+Votes: D, D, D, D, D, D, D, D, A, E
+Agent Answer: D
+Correct Answer: D
+Score: 1
+Tokens: 322
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 49 of 100 ###
+Topic: Math
+Question: A sales person gets a 10% commission on each sale he makes. How many sales of $250 each must he make in order to reach a salary of at least $1000?
+Choices:
+  A: 15
+  B: 24
+  C: 25
+  D: 40
+  E: 52
+Response 0:
+Let's assume that the sales person makes "x" sales with a revenue of $250 each. The total revenue generated will be 250x. 
+
+To calculate the commission earned, we need to find 10% of the total revenue, which is 0.1*(250x) = 25x.
+
+The sales person earns a commission of 25x on "x" sales.
+
+We need to find the value of "x" that will give the sales person a commission of at least $1000. 
+
+So the equation will be:
+
+25x >= 1000
+
+x >= 40
+
+Therefore, the salesperson needs to make at least 40 sales.
+
+Answer: Answer("D")
+Response 1:
+Solution:
+Let's start by calculating the commission of one sale:
+Commission = 10% of 250
+Commission = 0.1 x 250
+Commission = 25
+Therefore, for every sale of $250, the sales person gets a commission of $25.
+
+Now, let's determine how many sales of $250 the sales person must make to reach a salary of at least $1000:
+Total commission = $1000
+Number of sales = Total commission / Commission per sale
+Number of sales = 1000 / 25
+Number of sales = 40
+
+Answer: Answer("D")
+Response 2:
+To calculate the number of sales, we need to first calculate the commission the sales person earns per sale.  
+$250 x 10% = $25;  $1000 ÷ $25 = 40.  
+
+Therefore, the sales person must make 40 sales to earn a salary of at least $1000.
+
+Action: Answer("D")
+Response 3:
+To earn a salary of at least $1000, the sales person must earn $1000 in commission. Since he earns 10% commission on each sale he makes, he must make sales totaling $10,000 [(100% / 10%) x $1000]. 
+
+To determine the number of sales of $250 each he must make, we divide $10,000 by $250:
+$10,000 / $250 = 40
+
+Therefore, the sales person must make 40 sales of $250 each to earn a salary of at least $1000.
+
+Action: Answer("D")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("B")
+Response 7:
+Let x be the number of sales:
+ 
+0.1 * 250 * x = 1000
+ 
+(0.1 * 250 * x)/250 = 1000/250
+ 
+x = 4
+
+Action: Answer("D")
+Response 8:
+To earn $1000 salary, the sales person must make:
+salary = commission * sales = 0.1 * sales * $250
+$1000 = 0.1 * sales * $250
+$1000 / $25 = sales
+sales = 40
+
+Action: Answer("D")
+Response 9:
+Let the number of sales that the salesperson makes be x. 
+Then the commission earned on each sale is 10% of $250 = $25. 
+The total commission earned for x sales is 25x. 
+To earn a salary of at least $1000, the salesperson must have a total of 1000 + commission earned = 1000 + 25x, which gives us the equation 1000 + 25x >= total commission earned.
+Simplifying the equation gives us 25x >= 750, which is equivalent to x >= 30.
+Therefore, the salesperson must make at least 30 sales to earn a salary of at least $1000. 
+Since the answer options do not include 30, we need to calculate the next highest number of sales that gives the salesperson a salary of at least $1000. 
+The next highest number of sales is 4 more than 30, which is 34.
+Answer: Answer("None of the above")
+Votes: D, D, D, D, C, B, B, D, D, N
+Agent Answer: D
+Correct Answer: D
+Score: 1
+Tokens: 1061
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 50 of 100 ###
+Topic: Math
+Question: A starts travel towards south 3km, then travel 5 km towards east, and again travels 3 km to north, and finally travels 2km towards west. In the end how far from is A from home?
+Choices:
+  A: 3km
+  B: 2km
+  C: 4km
+  D: 5km
+  E: 6km
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("B")
+Response 2:
+Action: Answer("E")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("A")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("B")
+Votes: B, B, E, B, A, C, A, C, B, B
+Agent Answer: B
+Correct Answer: A
+Score: 0
+Tokens: 331
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 51 of 100 ###
+Topic: Math
+Question: What should come in place of the question mark(?) in each of the following questions ?
+a2 - b2/(a + b)2 (?)=(a - b)2
+Choices:
+  A: (a + b)(a - b)
+  B: (a - b)2
+  C: (a + b)2
+  D: a3 + b3
+  E: None of these
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("B")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("B")
+Votes: B, B, B, C, B, B, C, B, B, B
+Agent Answer: B
+Correct Answer: A
+Score: 0
+Tokens: 335
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 52 of 100 ###
+Topic: Math
+Question: M = abc is a three digit number and N = cba, if M > N and M - N + 396c = 990. Then how many values of M are more than 300.
+Choices:
+  A: 20
+  B: 30
+  C: 40
+  D: 200
+  E: None
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("A")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("A")
+Votes: A, A, A, B, C, C, A, C, A, A
+Agent Answer: A
+Correct Answer: A
+Score: 1
+Tokens: 321
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 53 of 100 ###
+Topic: Math
+Question: A cyclist travels at 12 miles per hour. How many minutes will it take to travel 48 miles?
+Choices:
+  A: 1
+  B: 240
+  C: 30
+  D: 60
+  E: 120
+Response 0:
+Action: Answer("E")
+Response 1:
+Action: Answer("E")
+Response 2:
+Action: Answer("E")
+Response 3:
+Action: Answer("E")
+Response 4:
+To solve this problem we can use the formula: 
+
+time = distance / speed.
+
+First, we need to convert the speed from miles per hour to miles per minute: 
+
+12 miles per hour = 12/60 miles per minute = 0.2 miles per minute.
+
+Then we can plug in the values: 
+
+time = 48 miles / 0.2 miles per minute = 240 minutes.
+
+Therefore, the correct answer is:
+
+Action: Answer("B")
+Response 5:
+Action: Answer("E")
+Response 6:
+Action: Answer("E")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("E")
+Response 9:
+Action: Answer("E")
+Votes: E, E, E, E, B, E, E, E, E, E
+Agent Answer: E
+Correct Answer: B
+Score: 0
+Tokens: 392
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 54 of 100 ###
+Topic: Math
+Question: Everyone in the family earns money each month. If the total income of a family per month is $9000 and the median income is $3000, how many members are there in the family?
+Choices:
+  A: 2
+  B: 3
+  C: 4
+  D: 5
+  E: 6
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: B, C, C, C, C, C, C, C, C, C
+Agent Answer: C
+Correct Answer: B
+Score: 0
+Tokens: 320
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 55 of 100 ###
+Topic: Math
+Question: A starts a business with Rs.40,000. After 2 months, B joined him with Rs.60,000. C joined them after some more time with Rs.120,000. At the end of the year, out of a total profit of Rs.375,000, C gets Rs.150,000 as his share. How many months after B joined the business, did C join?
+Choices:
+  A: 2 months
+  B: 4 months
+  C: 23 months
+  D: 24 months
+  E: 84 months
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("D")
+Response 9:
+Action: Answer("D")
+Votes: D, D, D, C, D, D, D, D, D, D
+Agent Answer: D
+Correct Answer: B
+Score: 0
+Tokens: 368
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 56 of 100 ###
+Topic: Math
+Question: The monthly salary S of a shop assistant is the sum of a fixed salary of $500 plus 5% of all monthly sales. What should the monthly sales be so that her monthly salary reaches $1500?
+Choices:
+  A: $50000
+  B: $40000
+  C: $30000
+  D: $20000
+  E: None of these
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("A")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("B")
+Votes: B, A, B, A, C, C, C, C, A, B
+Agent Answer: C
+Correct Answer: D
+Score: 0
+Tokens: 328
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 57 of 100 ###
+Topic: Math
+Question: The sum of k consecutive integers is 51. If the least integer is -50, then k =
+Choices:
+  A: 40
+  B: 62
+  C: 82
+  D: 92
+  E: 102
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("A")  
+Response 2:
+Action: Answer("A")
+Response 3:
+Action: Answer("A")
+Response 4:
+Action: Answer("A")
+Response 5:
+Action: Answer("A")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("A")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("A")
+Votes: A, A, A, A, A, A, A, A, A, A
+Agent Answer: A
+Correct Answer: E
+Score: 0
+Tokens: 302
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 58 of 100 ###
+Topic: Math
+Question: [(272 - 32) (124 + 176)] / (17 x 15 - 15) = ?
+Choices:
+  A: 0
+  B: 2.25
+  C: 300
+  D: 400
+  E: None of these
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C") 
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("D")
+Votes: C, D, C, C, C, C, C, C, C, D
+Agent Answer: C
+Correct Answer: C
+Score: 1
+Tokens: 308
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 59 of 100 ###
+Topic: Math
+Question: A certain liquid passes through a drain at a rate of w/25 gallons every x seconds. At that rate, how many minutes will it take y gallons to pass through the drain?
+Choices:
+  A: y/(1200xy)
+  B: 20xy/w
+  C: 5xy/(12w)
+  D: w/(3xy)
+  E: 3y/(wx)
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: C, C, C, C, B, C, C, B, C, C
+Agent Answer: C
+Correct Answer: C
+Score: 1
+Tokens: 332
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 60 of 100 ###
+Topic: Math
+Question: A square piece of cloth is trimmed by 4 feet on one edge to form a rectangular piece, which is then cut diagonally in half to create two triangles. If the area of each of triangle is 70 square feet, what was the perimeter (in feet) of the original piece of square cloth?
+Choices:
+  A: 56
+  B: 58
+  C: 60
+  D: 62
+  E: 64
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("E")
+Response 5:
+Action: Answer("E")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("E")
+Response 9:
+Action: Answer("D")
+Votes: D, D, D, D, E, E, D, E, E, D
+Agent Answer: D
+Correct Answer: A
+Score: 0
+Tokens: 342
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 61 of 100 ###
+Topic: Math
+Question: A rectangular parking space is marked out by painting three of its sides. If the length of the unpainted side is 9 feet, and the sum of the lengths of the painted sides is 37 feet, then what is the area of the parking space in square feet?
+Choices:
+  A: 46
+  B: 81
+  C: 126
+  D: 252
+  E: None
+Response 0:
+Action: Answer("A")
+Response 1:
+We know that the unpainted side of the rectangle is 9 feet. Let's call the length of the rectangle "l" and the width "w". We know that the sum of the painted sides is 37 feet, so we can set up the equation: 
+
+2l + w = 37
+
+We also know that the unpainted side (w) is 9 feet, so we can substitute that into the equation: 
+
+2l + 9 = 37
+
+Solving for l: 
+
+2l = 28
+l = 14
+
+So the length of the rectangle is 14 feet. 
+
+To find the area of the rectangle, we multiply the length by the width: 
+
+A = lw = 14 x 9 = 126
+
+Therefore, the answer is: 
+
+Action: Answer("C") - 126
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+We can start by using the information given to solve for the length and width of the parking space. Let's use L to represent the length and W to represent the width. We know that L + 2W = 37 (the sum of the lengths of the painted sides) and that W = 9 (the length of the unpainted side). Using these equations, we can solve for L: 
+
+L + 2W = 37 
+L + 2(9) = 37 
+L + 18 = 37 
+L = 19 
+
+Now that we know the length and width of the parking space (19 feet and 9 feet, respectively), we can calculate the area by multiplying them together: 
+
+Area = L × W = 19 × 9 = 171 
+
+Therefore, the answer is:
+
+Action: Answer("E") None of the Above. None of the answer choices provided is correct. The correct answer is 171 square feet.
+Response 5:
+Action: Answer("A")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("C")
+Votes: A, C, C, C, E, A, A, C, A, C
+Agent Answer: C
+Correct Answer: C
+Score: 1
+Tokens: 694
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 62 of 100 ###
+Topic: Math
+Question: Julie’s yard is rectangular. One side of the yard is 100 feet wide. The total area of the yard is 3,000 square feet. What is the length of the other side of the yard?
+Choices:
+  A: 30 feet
+  B: 20 feet
+  C: 10 feet
+  D: 50 feet
+  E: 60 feet
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+We can solve this problem by using the formula for the area of a rectangle. Let L be the length of the yard, we know that:
+
+Area = Length x Width
+3,000 = L x 100
+L = 3,000/100
+L = 30
+
+Therefore, the length of the other side of the yard is 30 feet.
+
+Action: Answer("A")
+Response 4:
+Action: Answer("E")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("E")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("E")
+Response 9:
+Action: Answer("E")
+Votes: D, D, D, A, E, D, E, E, E, E
+Agent Answer: E
+Correct Answer: A
+Score: 0
+Tokens: 402
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 63 of 100 ###
+Topic: Math
+Question: Hoses A and B spout water at different constant rates, and hose A can fill a certain pool in 8 hours. Hose A filled the pool alone for the first 2 hours and the two hoses, working together, then finished filling the pool in another 3 hours. How many hours would it have taken hose B, working alone, to fill the entire pool?
+Choices:
+  A: 8
+  B: 15
+  C: 12
+  D: 6
+  E: 3
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: C, C, B, B, C, B, C, C, C, C
+Agent Answer: C
+Correct Answer: A
+Score: 0
+Tokens: 356
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 64 of 100 ###
+Topic: Math
+Question: Two numbers are in the ratio 3:5. If 9 is subtracted from each, the new numbers are in the ratio 12:23. The smaller number is?
+Choices:
+  A: 21
+  B: 33
+  C: 35
+  D: 42
+  E: 58
+Response 0:
+Let the two numbers be 3x and 5x. Then, we have:
+
+ (3x-9)/(5x-9) = 12/23
+ 
+Solving the above equation for x, we get:
+
+ x = 69/38
+
+So, the smaller number is 3x = 207/38 
+
+Rationalizing the denominator, we get:
+
+ 207/38 = 5 and 17/38
+
+Therefore, the answer is 5 and 17/38 or approximately 5.45.
+
+Action: Answer("None of the above")
+Response 1:
+Action: Answer("B")
+Response 2:
+Let the two numbers be 3x and 5x. We are told that when 9 is subtracted from each, the new numbers are in the ratio 12:23. This means (3x-9):(5x-9) = 12:23. Now we can cross-multiply to get 23(3x-9) = 12(5x-9), which simplifies to 69x - 207 = 60x - 108. Solving for x gives x=99/3=33. Therefore, the smaller of the two original numbers is 3x = 3(33) = 99.
+Action: Answer("A")
+Response 3:
+Action: Answer("B")
+Response 4:
+Let the original numbers be 3x and 5x.
+If 9 is subtracted from each, the new numbers are 3x-9 and 5x-9.
+We know that (3x-9)/(5x-9) = 12/23.
+To solve for x, we cross-multiply and simplify: 23(3x-9) = 12(5x-9), which gives x=39.
+Therefore, the smaller original number is 3x = 3(39) = 117.
+
+Action: Answer("A")
+Response 5:
+Let the two numbers be 3x and 5x.
+After subtracting 9 from each, the new numbers are 3x-9 and 5x-9.
+According to the problem, (3x-9)/(5x-9) = 12/23.
+Solving this equation, we get x = 69.
+Therefore, the smaller number is 3x = 3*69 = 207.
+
+Action: Answer("A")
+Response 6:
+Let the two numbers be 3x and 5x. After subtracting 9 from each, we have (3x-9) and (5x-9), respectively. We know that (3x-9)/(5x-9) = 12/23. Multiplying both sides by (5x-9) gives 3(5x-9) = 12(3x-9). Solving for x gives x = 11. Therefore, the smaller number is 3x - 9 = 24. 
+
+Action: Answer("B")
+Response 7:
+Action: Answer("A")
+Response 8:
+Let the original numbers be 3x and 5x. After subtracting 9, the new numbers are 3x-9 and 5x-9. We are given that (3x-9)/(5x-9) = 12/23. Solving this equation yields x = 69. So the smaller number (3x) is 207. 
+
+Action: Answer("A")
+Response 9:
+Let the original numbers be 3x and 5x. After subtracting 9 from each, the new numbers become 3x-9 and 5x-9. It is given that (3x-9)/(5x-9) = 12/23. Cross-multiplying and solving for x, we get x=69/16. Therefore, the smaller original number is 3x = 207/16.
+
+Action: Answer("A")
+Votes: N, B, A, B, A, A, B, A, A, A
+Agent Answer: A
+Correct Answer: B
+Score: 0
+Tokens: 1051
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 65 of 100 ###
+Topic: Math
+Question: If one of the roots of the quadratic equation x^2 + mx + 22 = 0 is 1.5, then what is the value of m?
+Choices:
+  A: -23.5
+  B: -17.5
+  C: -10.5
+  D: -16.2
+  E: Cannot be determined
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("A") 
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("B")
+Votes: A, A, A, B, C, B, D, D, A, B
+Agent Answer: A
+Correct Answer: D
+Score: 0
+Tokens: 324
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 66 of 100 ###
+Topic: Math
+Question: In a large forest, 300 deer were caught, tagged, and returned during 2001. During 2002, 500 deer were caught at random, of which only 20 had tags from the previous year. If the percent of deer in the forest that had tags during the second year and were caught in the 500 deer sample is representative of the percent of the total deer population in the forest with tags, what is the total deer population in the forest (assuming no change in population between 2001 and 2002)?
+Choices:
+  A: 300
+  B: 500
+  C: 5000
+  D: 6000
+  E: 7500
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("E")
+Response 2:
+Action: Answer("E")
+Response 3:
+Action: Answer("E")
+Response 4:
+Action: Answer("E")
+Response 5:
+Action: Answer("E")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("E")
+Votes: D, E, E, E, E, E, D, E, C, E
+Agent Answer: E
+Correct Answer: E
+Score: 1
+Tokens: 392
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 67 of 100 ###
+Topic: Math
+Question: In an exam, a candidate secured 504 marks of the maximum mark of M. If the maximum mark M is converted into 800 marks, he would have secured 420 marks. What is the value of M?
+Choices:
+  A: 278
+  B: 2890
+  C: 270
+  D: 2702
+  E: 960
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("E")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("E")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("E")
+Response 6:
+Action: Answer("E")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("D")
+Response 9:
+Action: Answer("E")
+Votes: C, E, D, E, C, E, E, E, D, E
+Agent Answer: E
+Correct Answer: E
+Score: 1
+Tokens: 326
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 68 of 100 ###
+Topic: Math
+Question: On dividing 2272 and 875 by a 3-digit number N, we get the same remainder. The sum of the digits of N is:
+Choices:
+  A: 10
+  B: 11
+  C: 12
+  D: 13
+  E: 14
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("D")
+Votes: C, D, C, D, C, B, D, C, C, D
+Agent Answer: C
+Correct Answer: A
+Score: 0
+Tokens: 311
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 69 of 100 ###
+Topic: Math
+Question: By himself, Jack can clean a yacht in 12 hours. On a particular day, he happens to finish two-thirds of the work. The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. How long does it take Jill to finish the remaining work?
+Choices:
+  A: 4
+  B: 8
+  C: 22
+  D: 50
+  E: 20
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("E")
+Response 3:
+Action: Answer("E")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("C") 
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("D")
+Votes: C, C, E, E, C, D, C, D, C, D
+Agent Answer: C
+Correct Answer: E
+Score: 0
+Tokens: 347
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 70 of 100 ###
+Topic: Math
+Question: Mr.Sam takes 17 hours to go by train to a certain city and return by car. He loses 4 hours if he goes both ways by train. How long would he have taken if he had traveled by car in both ways?
+Choices:
+  A: 22 hrs
+  B: 18 hrs
+  C: 16 hrs
+  D: 20 hrs
+  E: 13 hrs
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("A")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("D")
+Votes: D, D, D, D, B, A, D, D, B, D
+Agent Answer: D
+Correct Answer: E
+Score: 0
+Tokens: 334
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 71 of 100 ###
+Topic: Math
+Question: For bringing each copper coin from the bottom of a river, a coin-diver gets 20 cents, and for each brass coin she gets 25 cents. If after one dive, she got $3.40. What is the minimum number of copper coins that she brought?
+Choices:
+  A: 4
+  B: 3
+  C: 2
+  D: 1
+  E: 0
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("B")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("A")
+Votes: B, B, B, B, B, B, B, B, C, A
+Agent Answer: B
+Correct Answer: C
+Score: 0
+Tokens: 336
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 72 of 100 ###
+Topic: Math
+Question: The sum of the digits of a three digit number is 17, and the sum of the squares of its digits is 109. If we subtract 495 from the number, we shall get a number consisting of the same digits written in the reverse order. Find the number.
+Choices:
+  A: 368
+  B: 377
+  C: 288
+  D: 997
+  E: 112
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("A")
+Response 3:
+Action: Answer("A")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("B")
+Votes: A, A, A, A, B, C, B, B, A, B
+Agent Answer: A
+Correct Answer: A
+Score: 1
+Tokens: 336
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 73 of 100 ###
+Topic: Math
+Question: Fernando purchased a university meal plan that allows him to have a total of 3 lunches and 3 dinners per week. If the cafeteria is closed on weekends and Fernando always goes home for a dinner on Friday nights, how many options does he have to allocate his meals?
+Choices:
+  A: 5C3*4C3
+  B: 5C4*4C2
+  C: 5C2*4C4
+  D: 5C6*4C5
+  E: 4C3*4C3
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("B")
+Response 2:
+Action: Answer("B")
+Response 3:
+The number of options for Fernando to allocate his meals for the week equals to the number of ways he can pick 2 lunches and 2 dinners to have on the weekdays. 
+
+Possible options for Fernando:
+- He can choose 2 lunches in 5C2 ways and 2 dinners in 4C2 ways to have from Monday to Thursday. The remaining lunch and dinner are automatically fixed (one on Friday and one on any other weekday without a prior meal). Thus, the answer is: 
+
+Action: Answer("B")  
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("A")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("E")
+Response 9:
+Action: Answer("B")
+Votes: B, B, B, B, B, A, B, E, E, B
+Agent Answer: B
+Correct Answer: A
+Score: 0
+Tokens: 466
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 74 of 100 ###
+Topic: Math
+Question: The ratio of the volumes of a cube to that of the sphere which will fit inside the cube is?
+Choices:
+  A: 2: π
+  B: 7:2
+  C: 8:2
+  D: 6: π
+  E: 8:3
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("E")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("E")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("D")
+Response 9:
+Action: Answer("E")
+Votes: D, D, E, D, D, E, D, E, D, E
+Agent Answer: D
+Correct Answer: D
+Score: 1
+Tokens: 311
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 75 of 100 ###
+Topic: Math
+Question: There are ten lime soda bottles on a table in a restaurant. They are to be served among two different groups of customers consisting of 5 members each. How many ways are there to create these 2 groups?
+Choices:
+  A: 90
+  B: 105
+  C: 126
+  D: 252
+  E: 525
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("A")
+Response 3:
+Action: Answer("A")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: C, C, A, A, C, C, C, D, C, C
+Agent Answer: C
+Correct Answer: D
+Score: 0
+Tokens: 323
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 76 of 100 ###
+Topic: Math
+Question: All 250 files on Sam's hard drive are infected by either a virus or a worm or both. The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. If 50% of the files were not infected by a virus, how many of Sam's files were NOT infected by a worm?
+Choices:
+  A: 50
+  B: 70
+  C: 75
+  D: 100
+  E: 125
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("A")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("E")
+Response 6:
+Action: Answer("E")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("D")
+Response 9:
+Action: Answer("E")
+Votes: C, C, A, D, B, E, E, D, D, E
+Agent Answer: D
+Correct Answer: C
+Score: 0
+Tokens: 360
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 77 of 100 ###
+Topic: Math
+Question: A trader sold an article at a profit of 20% for Rs.360. What is the cost price of the article?
+Choices:
+  A: 270
+  B: 300
+  C: 280
+  D: 320
+  E: 315
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("B")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("B")
+Votes: C, B, C, C, B, C, B, C, B, B
+Agent Answer: C
+Correct Answer: B
+Score: 0
+Tokens: 306
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 78 of 100 ###
+Topic: Math
+Question: A newspaper costs $4 on Sunday and $1 the rest of the days of the week. If a hotel orders twice as many papers on Sunday as it does the rest of the days of the week and pays $210 per week for newspapers, how many newspapers does it buy on Monday?
+Choices:
+  A: 15
+  B: 30
+  C: 45
+  D: 60
+  E: 75
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("B")
+Response 2:
+Action: Answer("B")
+Response 3:
+Let x be the number of newspapers bought on Monday.
+Then since the hotel buys twice as many newspapers on Sunday as on any other day, it buys 2x newspapers on Sunday.
+Since there are seven days in the week there are 7-1=6 other days, so the hotel buys 6x newspapers on the other days of the week.
+From this, the total cost of newspapers per week is given by
+4(2x) + 1(6x) = 210
+Simplifying this expression gives 14x = 210, so x = 15.
+Therefore the hotel buys 15 newspapers on Monday. 
+
+Action: Answer("A")
+Response 4:
+Action: Answer("E")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("C")
+Response 7:
+First, let X be the number of papers bought on Sunday. Then the number of papers bought on the other days of the week is X/2 papers per day. 
+
+The cost of X Sunday papers is $4X and the cost of the papers on the other days of the week is $1(X/2)(6) = $3X. 
+
+Thus, the total cost of the papers is:
+$4X + $3X = $210
+
+Solving the equation for X results in:
+$7X = $210
+X = 30
+
+So the hotel buys 30 papers on Sunday, which means it buys 15 papers on Monday. 
+
+Action: Answer("A")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("D")
+Votes: A, B, B, A, E, D, C, A, A, D
+Agent Answer: A
+Correct Answer: A
+Score: 1
+Tokens: 606
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 79 of 100 ###
+Topic: Math
+Question: The length of the ribbon was originally 30 cm. It was reduced in the ratio 5 : 3. What is its length now?
+Choices:
+  A: 18
+  B: 30
+  C: 6
+  D: 15
+  E: 12
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("E")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("E")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("E")
+Response 9:
+Action: Answer("D")
+Votes: D, D, D, E, D, E, D, E, E, D
+Agent Answer: D
+Correct Answer: A
+Score: 0
+Tokens: 309
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 80 of 100 ###
+Topic: Math
+Question: Allen starts from X, goes to Y. At the same time Bob starts from Y and goes towards X. Once Allen reaches Y he changes his direction and returns to X. Once Bob reaches X, he changes his direction and returns to Y. Throughout Allen travels at 54 kmph and Bob travels at 78kmph. By the time they meet for the second time, Bob covers 48 km more than Allen. Find the distance between X and Y.
+Choices:
+  A: 144km
+  B: 72 km
+  C: 126km
+  D: 84 km
+  E: 48km
+Response 0:
+Let's start by defining some variables. Let d be the distance between X and Y and t be the time it takes for them to meet for the second time. 
+
+During the time t/2, Allen travels from X to Y, a distance of d/2, and during the same time, Bob travels from Y to X, also a distance of d/2. 
+
+During the time t/2, Allen's distance from X is increasing, and Bob's distance from Y is decreasing. Let a be the distance between Allen and Y and b be the distance between Bob and X. Then, we have:
+
+a + b = d/2  (since they meet at the midpoint)
+54 * (t/2 - a/54) = b  (since Bob's speed is faster than Allen's)
+78 * (t/2 - b/78) = a  (since Allen's speed is faster than Bob's)
+
+We also know that by the time they meet for the second time, Bob has covered 48 km more than Allen. This means that:
+
+b + 48 = d/2 - a
+
+We can now solve this system of equations for d:
+
+a + b = d/2
+54t - 54a = b
+78t - 78b = a
+b + 48 = d/2 - a
+
+Multiplying the first equation by 2 and adding the fourth equation, we get:
+
+2a + 2b + 96 = d
+
+Substituting the first equation into the second and third equations, we get:
+
+54t - 54(d/2 - b) = b
+78t - 78b = d/2 - b
+
+Simplifying these equations, we get:
+
+b = 27t - 27d/4
+156t = 39d
+
+Substituting these into the equation for a + b, we get:
+
+a + 27t - 27d/4 = d/2
+
+Substituting the equation for b into the equation for a + b, we get:
+
+a + 27t - 27d/4 + 27t - 27d/4 + 96 = d/2
+54t - 27d/2 + 96 = d/2
+54t - 13.5d + 96 = d/2
+
+Substituting the equation for d/4 from the equation for b, we get:
+
+54t - 13.5(4t) + 96 = d/2
+54t - 54t + 96 = d/2
+d = 192 km
+
+Therefore, the distance between X and Y is 192 km. 
+
+Answer: Answer("A")
+Response 1:
+Action: Answer("A")  144km
+Response 2:
+Let us assume Allen started from point X and Bob started from point Y. Let us also assume that the distance between X and Y be "D" kilometers.
+When they first meet, let "t" be the time in hours since they started moving.
+At their first meeting, the distance traveled by Allen would be 54t and similarly, the distance traveled by Bob would be 78t.
+Since they started from opposite points, their total distance covered would be D. So, the distance that they still need to cover to meet for the first time would be (D - 54t - 78t) km for Allen and (D - 78t - 54t) km for Bob.
+Both Allen and Bob is moving towards each other when they meet for the first time. So, we can add those two distances to form an equation that represents their first meeting as  D = 132t.
+Let us assume the second meeting be "t2" kilometers away from the first meeting point. Therefore, the distance Bob traveled at the second meeting would be (D + 48) km.
+Using the equation we got from the first meeting, t2 can be written in terms of t.
+t2 = D - 132t
+At this second meeting, Allen has traveled a total of 2D - t2 kilometers (he went from Y to X then back to Y), and he would have traveled at a constant speed of 54kph.
+Bob has traveled a total of D + 48 kilometers at the second meeting and he would have traveled at a constant speed of 78kph.
+Since both Allen and Bob meet each other again at the same time in this scenario, we can set up an equation where the distance they cover is equal to each other. That is:
+2D - t2 = D + 48
+Substitute t2 with D - 132t 
+2D -(D - 132t) = D + 48
+D - 132t = 48
+D = 48 + 132t
+Substitute into the equation we got from the first meeting, D = 132t, we obtain
+132t = 48 + 132t
+t = 4
+Substitute t = 4 into the equation D = 132t, we get
+D = 528 km
+
+Answer: Answer("A")  (144km)
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("A")
+Response 5:
+Action: Answer("A")
+Response 6:
+Action: Answer("C")
+Response 7:
+Let's assume that the distance between X and Y is 'd'. Also, let t be the time taken for Bob and Allen to meet for the first time. 
+
+When they meet for the first time, they cover a total distance of 'd'. The relative speed between them is 54+78 = 132 kmph.
+
+Hence, d = 132t. 
+
+When they meet for the second time the effective relative speed will now be the sum of their speeds i.e. 54+78 = 132 kmph since they are now moving towards each other.  Let's assume that this time they meet after a time 't2' after their second start. 
+
+The distance covered by Allen from Y to the meeting point in the first meeting is (54*t) km. In the time 't2' Allen will cover (54*t2) km. Hence the distance between Y and the meeting point after they start moving from X and Y respectively for the second time is (d - 54t - 54t2) km.
+
+The distance covered by Bob is (78*t) km until the first meeting point, and in the time 't2' he covers (78*t2) km. Hence, the distance between X and the second meeting point is (d - 78t - 78t2) km.
+
+It is given that Bob covers 48 km more than Allen until they meet for the second time. Therefore,
+
+78t + 78t2 = 54t + 54t2 + 48
+24t + 24t2 = 16
+3t + 3t2 = 2
+Now, we have two equations in two variables:
+d = 132t
+d - 54t - 54t2 = d - 78t - 78t2 + 48
+
+Simplifying the second equation we get:
+24t + 39t2 = 8
+
+Simplifying the first equation we have:
+d = 132t
+
+We can substitute t from the second equation into the first one and find d:
+d = 132(2-3t2)/3
+
+Simplifying the equation we get d = 84 km.
+
+
+Action: Answer("D")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("C")
+Votes: A, A, A, C, A, A, C, D, A, C
+Agent Answer: A
+Correct Answer: E
+Score: 0
+Tokens: 1883
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 81 of 100 ###
+Topic: Math
+Question: A jeep travels a certain distance taking 6 hours in the forward journey. During the return journey, it increased its speed by 12km/hr and took 4 hours. What is the distance travelled by the jeep?
+Choices:
+  A: 126km
+  B: 144km
+  C: 127km
+  D: 228km
+  E: 128km
+Response 0:
+Action: Answer("E")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("E")
+Response 3:
+Action: Answer("A")
+Response 4:
+Action: Answer("E")
+Response 5:
+Action: Answer("E")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("E")
+Response 9:
+Action: Answer("B")
+Votes: E, A, E, A, E, E, A, C, E, B
+Agent Answer: E
+Correct Answer: B
+Score: 0
+Tokens: 329
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 82 of 100 ###
+Topic: Math
+Question: The number of water lilies on a certain lake doubles every two days. If there is exactly one water lily on the lake, it takes 60 days for the lake to be fully covered with water lilies. In how many days will the lake be fully covered with lilies, if initially there were 64 water lilies on it?
+Choices:
+  A: 15
+  B: 28
+  C: 30
+  D: 53
+  E: 59
+Response 0:
+Let's assume "x" is the number of days to cover the lake when starting with 64 lilies.  
+
+Initially, there are 64 water lilies on the lake, which doubles every two days. So the equation becomes:  
+
+Day 0: 64 lilies  
+Day 2: 128 lilies  
+Day 4: 256 lilies  
+Day 6: 512 lilies  
+...  
+Day x: 64 * 2^(x/2) lilies  
+
+We know that it takes 60 days for the lake to be fully covered with water lilies if there is exactly one water lily on the lake. So, we can set up the following equation:  
+
+60 days: 1 water lily = 64 * 2^(60/2) water lilies  
+
+x days: 64 water lilies = 64 * 2^(x/2) water lilies  
+
+Now, we can solve for "x":  
+
+64 * 2^(x/2) = 64 * 2^(60/2)  
+2^(x/2) = 2^30  
+x/2 = 30  
+x = 60  
+
+Therefore, starting with 64 lilies, it will take 60 days for the lake to be fully covered with lilies.
+
+Answer: Answer("E")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("B")
+Votes: E, D, D, C, C, B, C, C, C, B
+Agent Answer: C
+Correct Answer: D
+Score: 0
+Tokens: 622
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 83 of 100 ###
+Topic: Math
+Question: A train M leaves City A at 5 am and reaches City B at 9am. Another train N leaves City B at 7am and reaches City A at 1030am. At what time do the 2 trains cross one another?
+Choices:
+  A: 1 hr 23 min
+  B: 1 hr 15 min
+  C: 1 hr 8 min
+  D: 56 min
+  E: 55 min
+Response 0:
+Action: Answer("E")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("E")
+Response 5:
+Action: Answer("E")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("E")
+Votes: E, D, D, B, E, E, D, D, C, E
+Agent Answer: D
+Correct Answer: D
+Score: 1
+Tokens: 345
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 84 of 100 ###
+Topic: Math
+Question: The average (arithmetic mean) of the weight of 10 vehicles is 12.2 tons. The average weight of the group of vehicles increased by 2.6 tons after a new heavy duty truck was added to the group? What is the weight in tons of the heavy duty truck?
+Choices:
+  A: 40.8
+  B: 41.6
+  C: 42.2
+  D: 43.5
+  E: 44.8
+Response 0:
+Action: Answer("D")
+Response 1:
+Let X be the weight of the heavy truck in tons. We can set up an equation to solve for X. 
+
+The average weight of the original 10 vehicles is 12.2 tons: 
+
+sum of weights of 10 vehicles / 10 = 12.2 
+
+sum of weights of 10 vehicles = 122 
+
+When the heavy duty truck was added, there are 11 vehicles with an average weight of (12.2+2.6) = 14.8 tons: 
+
+(sum of weights of 10 vehicles) + X = 14.8 * 11 
+
+122 + X = 162.8 
+
+X = 40.8 
+
+Therefore, 
+
+Action: Answer("A")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("E")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("A")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("B")
+Votes: D, A, B, D, E, D, C, A, C, B
+Agent Answer: D
+Correct Answer: A
+Score: 0
+Tokens: 491
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 85 of 100 ###
+Topic: Math
+Question: 10kg of a mixture contains 30% sand and 70% clay. In order to make the mixture contain equal quantities of clay and sand how much of the mixture is to be removed and replaced with pure sand?
+Choices:
+  A: 10/7
+  B: 20/7
+  C: 30/7
+  D: 40/7
+  E: 50/7
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("B")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("A")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("D")
+Votes: B, B, B, A, B, B, B, B, B, D
+Agent Answer: B
+Correct Answer: B
+Score: 1
+Tokens: 335
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 86 of 100 ###
+Topic: Math
+Question: Find the total no. of distinct bike no.'s that can beformed using 2 letters followed by 2 no.'s. How many letters need to be distinct?
+Choices:
+  A: 74453
+  B: 64543
+  C: 74325
+  D: 65000
+  E: 97656
+Response 0:
+Action: Answer("E")
+Response 1:
+Action: Answer("E")
+Response 2:
+Action: Answer("E")
+Response 3:
+Action: Answer("E")
+Response 4:
+Action: Answer("E")
+Response 5:
+Action: Answer("E")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("B")  
+Votes: E, E, E, E, E, E, B, E, B, B
+Agent Answer: E
+Correct Answer: D
+Score: 0
+Tokens: 321
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 87 of 100 ###
+Topic: Math
+Question: If Jill needed to buy 10 bottles of soda for a party in which 8 people attended, how many bottles of soda will she need to buy for a party in which 12 people are attending?
+Choices:
+  A: 6
+  B: 8
+  C: 10
+  D: 12
+  E: 14
+Response 0:
+Action: Answer("E")
+Response 1:
+Action: Answer("E")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("B") 
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("D")
+Votes: E, E, B, B, B, B, B, D, B, D
+Agent Answer: B
+Correct Answer: C
+Score: 0
+Tokens: 322
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 88 of 100 ###
+Topic: Math
+Question: What will be the cost of gardening 1-metre – broad boundary around a rectangular plot having perimeter of 340 metres at the rate of 10 per square metre?
+Choices:
+  A: 3400
+  B: 1700
+  C: 3440
+  D: Cannot be determined
+  E: None of these
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("A")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("B")
+Votes: A, C, B, C, C, A, C, C, C, B
+Agent Answer: C
+Correct Answer: C
+Score: 1
+Tokens: 319
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 89 of 100 ###
+Topic: Math
+Question: The capacity of a tank of dimensions (8 m × 6 m × 2.5 m) is
+Choices:
+  A: 120 litres
+  B: 1200 litres
+  C: 12000 litres
+  D: 120000 litres
+  E: None of these
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("D")
+Response 9:
+Action: Answer("D")
+Votes: D, D, D, D, D, D, D, D, D, D
+Agent Answer: D
+Correct Answer: D
+Score: 1
+Tokens: 311
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 90 of 100 ###
+Topic: Math
+Question: Calculate the percentage gain of a merchant who purchased 90 kg of oranges for Rs. 450 and sold the whole lot at the rate of Rs. 7.50 per kg.
+Choices:
+  A: 50 %
+  B: 60 %
+  C: 55 %
+  D: 70 %
+  E: 58%
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("B")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("C") 
+Response 5:
+Action: Answer("E")
+Response 6:
+Action: Answer("A")  
+Explanation:
+The cost price per kg = 450/90 = Rs. 5
+The selling price per kg = Rs. 7.5
+Profit per kg = Selling Price - Cost Price = 7.5 - 5 = Rs. 2.5
+% Gain = (Profit / Cost price) x 100 = (2.5 / 5) x 100 = 50%
+Response 7:
+Action: Answer("A")
+Response 8:
+Action: Answer("E")
+Response 9:
+Action: Answer("C")
+Votes: B, B, B, C, C, E, A, A, E, C
+Agent Answer: C
+Correct Answer: A
+Score: 0
+Tokens: 404
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 91 of 100 ###
+Topic: Math
+Question: The value of log2 4 is:
+Choices:
+  A: 2
+  B: 4
+  C: 6
+  D: 8
+  E: 12
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("A")
+Response 3:
+Action: Answer("A")
+Response 4:
+Action: Answer("A")
+Response 5:
+Action: Answer("A")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("A")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("A")
+Votes: A, A, A, A, A, A, A, A, A, A
+Agent Answer: A
+Correct Answer: A
+Score: 1
+Tokens: 289
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 92 of 100 ###
+Topic: Math
+Question: There is well of depth 30m and frog is at bottom of the well. He jumps 3m up one day and falls back 2m down the same day. How many days will it take for the frog to come out of the well?
+Choices:
+  A: 25 days
+  B: 26 days
+  C: 27 days
+  D: 28 days
+  E: 29 days
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("B")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")  
+Explanation: 
+The frog moves 1m up in each jump (3m up and 2m down equals 1m up)
+Thus, it will take 30-3 = 27 jumps to reach the top (on 27th day).
+Therefore, the frog will come out of the well on the 27th day.
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("B")
+Votes: B, B, B, B, C, C, C, B, B, B
+Agent Answer: B
+Correct Answer: D
+Score: 0
+Tokens: 407
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 93 of 100 ###
+Topic: Math
+Question: Joe's age, Joe's sister's age and Joe’s fathers age sums up to 100. When Joe is as old as his father, Joe's sister will be twice as old as now. When Joe is as old as his father then his father is twice as old as when his sister was as old as her father. Find the age of Joe's father?
+Choices:
+  A: 45
+  B: 48
+  C: 50
+  D: 55
+  E: 58
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("A")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("A")
+Response 5:
+Action: Answer("C") 
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("C")
+Votes: A, A, A, D, A, C, C, E, B, C
+Agent Answer: A
+Correct Answer: C
+Score: 0
+Tokens: 355
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 94 of 100 ###
+Topic: Math
+Question: Christopher and Jonathan were having bets. They decide that a coin will be flipped twenty times and each time it turns heads, Christopher will give $2 to Jonathan and each time it turns out to be Tails, Jonathan will give 3$ to Christopher. After flipping for twenty times none of the both won or lost any amount.
+How many times did the coin landed on Heads ?
+Choices:
+  A: 10
+  B: 23
+  C: 16
+  D: 18
+  E: 12
+Response 0:
+Action: Answer("E")
+Response 1:
+Action: Answer("E")
+Response 2:
+Action: Answer("A")
+Response 3:
+Action: Answer("E")
+Response 4:
+Action: Answer("E")
+Response 5:
+Action: Answer("E")
+Response 6:
+Action: Answer("E")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("E")
+Response 9:
+Action: Answer("C")
+Votes: E, E, A, E, E, E, E, E, E, C
+Agent Answer: E
+Correct Answer: E
+Score: 1
+Tokens: 356
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 95 of 100 ###
+Topic: Math
+Question: Kevin drove from A to B at a constant speed of 70 mph. Once he reached B, he turned right around with pause, and returned to A at a constant speed of 90 mph. Exactly 3 hours before the end of his trip, he was still approaching B, only 70 miles away from it. What is the distance between A and B?
+Choices:
+  A: 180
+  B: 90
+  C: 270
+  D: 360
+  E: None of the above
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("C") 
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("D") 
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("C") 
+Response 9:
+Action: Answer("D")
+Votes: D, D, C, D, D, D, A, D, C, D
+Agent Answer: D
+Correct Answer: A
+Score: 0
+Tokens: 359
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 96 of 100 ###
+Topic: Math
+Question: I know a 5 digit number having a property that with a 1 after it, it is three times as large as it would be with a 1 before it.
+What is that number?
+Choices:
+  A: 42857
+  B: 32456
+  C: 76523
+  D: 24567
+  E: 43566
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("A")
+Response 3:
+Action: Answer("A")
+Response 4:
+Action: Answer("A")
+Response 5:
+Action: Answer("A")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("A")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("A")
+Votes: A, A, A, A, A, A, A, A, A, A
+Agent Answer: A
+Correct Answer: A
+Score: 1
+Tokens: 325
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 97 of 100 ###
+Topic: Math
+Question: An organization decided to raise Rs. 6 lakh by collecting equal contribution from each of its employees. If each of them had contributed Rs. 60 extra, the contribution would have been Rs. 6.24 lakh. How many employees are there in that organization?
+Choices:
+  A: 300
+  B: 200
+  C: 400
+  D: 100
+  E: 500
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("B")
+Response 9:
+Action: Answer("C")
+Votes: B, A, C, B, B, C, B, E, B, C
+Agent Answer: B
+Correct Answer: C
+Score: 0
+Tokens: 334
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 98 of 100 ###
+Topic: Math
+Question: A man divides Rs 8600 among 5 sons, 4 daughters and 2 nephews. If each daughter receives four times as much as each nephew, and each son receives five as much as each nephew. How much does each daughter receive ?
+Choices:
+  A: Rs 400
+  B: Rs 500
+  C: Rs 600
+  D: Rs 700
+  E: Rs 800
+Response 0:
+Action: Answer("C")
+Response 1:
+Let the share of each nephew be Rs x. 
+Then, the share of each daughter is Rs 4x, and 
+the share of each son is Rs 5x. 
+Therefore, the total amount
+
+5 * 5x + 4 * 4x + 2 * x = 8600
+25x + 16x + 2x = 8600
+43x = 8600
+x = 200
+ 
+Hence, each daughter receives Rs 800
+Action: Answer("E")
+Response 2:
+Action: Answer("C")
+Response 3:
+Let's first calculate the amount received by each nephew.
+Let the amount received by each nephew be x.
+Each daughter receives four times as much as each nephew, so each daughter gets 4x.
+Each son receives five times as much as each nephew, so each son gets 5x.
+There are 4 daughters and 5 sons, so their total share is 4*4x + 5*5x = 61x.
+The total amount to be divided is Rs 8600, so we have 61x = 8600.
+Thus, x = 140.
+
+So, each daughter receives 4 times x, which is Rs 560.
+
+Therefore, the Answer is Action: Answer("B") which is Rs 500.
+Response 4:
+Let the amount of each nephew be x.
+Then, amount received by each daughter = 4x
+And amount received by each son = 5x
+
+Total number of parts= 5+4+2 = 11
+Total amount = Rs 8600
+
+So, [(5*5x) + (4*4x) + (2*x)] = 8600
+Simplifying the above equation, we get x=200.
+
+Hence, each daughter receives 800.
+Action: Answer("E")
+Response 5:
+Let the share of each nephew be x.
+Then, the share of each daughter = 4x and share of each son = 5x.
+
+Now,  Total amount = 8600
+
+Total number of shares = 5+4+2=11
+
+Therefore, 11x = 8600
+
+Hence, the value of x = 8600/11 =  781.8
+
+Thus, the share of each daughter = 4x = 4 x 781.8 = Rs 3127.2
+
+Action: Answer("A")
+Response 6:
+Action: Answer("D")
+Response 7:
+Let the amount each nephew receives be "x".
+Then, each daughter receives 4x and each son receives 5x.
+The total number of people receiving money is 5+4+2=11.
+So, we have the equation 5(5x) + 4(4x) + 2(x) = 8600.
+Solving for x, we get x=200.
+Therefore, each daughter will receive 4x = 4(200) = Rs 800
+Answer: Answer("E")
+Response 8:
+Let the amount each nephew receives be x
+Then each daughter receives 4x and each son receives 5x
+Total number of people receiving the amount = 5+4+2=11
+Total amount = 8600
+Amount received by each daughter = 4x
+So, the equation becomes: 
+5x + 4(4x) + 2(x) = 8600
+Solving for x: x = 400
+Amount received by each daughter = 4x = Rs 1600
+
+Action: Answer("A")
+Response 9:
+Let the share of each nephew be x.
+Then,
+Share of each son = 5x
+Share of each daughter = 4(share of each nephew) = 4x
+
+Total number of children = 5 sons + 4 daughters + 2 nephews = 11
+
+Total share = Rs 8600
+
+We can create an equation:
+5(5x) + 4(4x) + 2(x) = 8600
+
+Solving for x, we get:
+
+x = 200
+
+So, each daughter receives Rs 4x = Rs 800
+
+Action: Answer("E")
+Votes: C, E, C, B, E, A, D, E, A, E
+Agent Answer: E
+Correct Answer: E
+Score: 1
+Tokens: 1133
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 99 of 100 ###
+Topic: Math
+Question: A student instead of finding the value of 7/8 of a number, found the value of 7/18 of the number. If his answer differed from the actual one by 770, find the that number.
+Choices:
+  A: 1584
+  B: 2520
+  C: 1728
+  D: 1656
+  E: None
+Response 0:
+Action: Answer("B")
+Response 1:
+Action: Answer("B")
+Response 2:
+Action: Answer("B")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("A")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("B")
+Response 7:
+Action: Answer("B")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("B")
+Votes: B, B, B, B, A, B, B, B, A, B
+Agent Answer: B
+Correct Answer: A
+Score: 0
+Tokens: 328
+
+### Model: gpt-35-turbo | Prompt: baseline | Exam: aqua-rat-100 | Problem 100 of 100 ###
+Topic: Math
+Question: Calculate the maximum distance you can travel with $8.50 on a cab which charges $3.50 for the first quarter-mile and 10 cents for each additional quarter mile.
+Choices:
+  A: 11.75 miles
+  B: 12.75 miles
+  C: 17.75 miles
+  D: 14.75 miles
+  E: 10.75 miles
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("B")
+Votes: D, D, D, D, D, D, D, D, A, B
+Agent Answer: D
+Correct Answer: B
+Score: 0
+Tokens: 331
+
+### Results ###
+Start Time: 2023-11-30 18:59:17
+End Time: 2023-11-30 19:00:46
+Experiment: gpt-35-turbo - baseline - aqua-rat-100
+Model: gpt-35-turbo
+Prompt: baseline
+Exam: aqua-rat-100
+Questions: 100
+Accuracy: 0.3700
+Input Tokens: 27287
+Output Tokens: 17585
+Total Tokens: 44872
+Tokens per Question: 448.72
+Total Cost: $0.08
+Cost per question: $0.0008
+Total Runtime: 88.81 seconds
+Runtime per question: 0.89 seconds

@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 20:59:33,2023-11-30 21:09:43,gpt-35-turbo - composite - lsat-lr-100,gpt-35-turbo,composite,lsat-lr-100,100,0.5,68754,290439,359193,3591.93,0.684009,0.00684009,609.928409,6.09928409

@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 22:20:40,2023-11-30 22:27:36,gpt-4 - baseline - aqua-rat-100,gpt-4,baseline,aqua-rat-100,100,0.59,26887,21720,48607,486.07,2.1098100000000004,0.021098100000000005,415.122815,4.15122815

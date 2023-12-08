@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 21:19:32,2023-11-30 21:28:57,gpt-35-turbo - composite - sat-en-100,gpt-35-turbo,composite,sat-en-100,100,0.77,142620,258637,401257,4012.57,0.731204,0.00731204,565.138092,5.65138092

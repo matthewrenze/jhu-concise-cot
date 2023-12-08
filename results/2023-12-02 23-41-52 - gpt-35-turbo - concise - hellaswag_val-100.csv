@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-02 23:41:52,2023-12-02 23:44:32,gpt-35-turbo - concise - hellaswag_val-100,gpt-35-turbo,concise,hellaswag_val-100,100,0.8,42974,58779,101753,1017.53,0.18201900000000001,0.0018201900000000002,159.165313,1.59165313

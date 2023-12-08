@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 20:10:33,2023-11-30 20:14:41,gpt-35-turbo - chain_of_thought - arc-challenge-test-100,gpt-35-turbo,chain_of_thought,arc-challenge-test-100,100,0.87,32742,108549,141291,1412.91,0.26621100000000003,0.0026621100000000005,247.5103,2.475103

@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 20:20:06,2023-11-30 20:24:50,gpt-35-turbo - chain_of_thought - medmcqa-dev-100,gpt-35-turbo,chain_of_thought,medmcqa-dev-100,100,0.61,31998,126429,158427,1584.27,0.30085500000000004,0.0030085500000000005,283.243404,2.83243404

@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-03 01:30:11,2023-12-03 01:35:59,gpt-4 - concise - hellaswag_val-100,gpt-4,concise,hellaswag_val-100,100,0.89,42578,16302,58880,588.8,2.25546,0.022554599999999998,347.857026,3.47857026

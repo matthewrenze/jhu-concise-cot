@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-01 08:47:01,2023-12-01 09:06:29,gpt-4 - chain_of_thought - arc-challenge-test-100,gpt-4,chain_of_thought,arc-challenge-test-100,100,0.96,32686,108389,141075,1410.75,7.48392,0.07483920000000001,1167.981205,11.67981205

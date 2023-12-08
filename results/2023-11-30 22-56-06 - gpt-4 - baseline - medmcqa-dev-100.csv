@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 22:56:06,2023-11-30 22:59:16,gpt-4 - baseline - medmcqa-dev-100,gpt-4,baseline,medmcqa-dev-100,100,0.76,23798,6020,29818,298.18,1.0751399999999998,0.010751399999999998,189.564582,1.89564582

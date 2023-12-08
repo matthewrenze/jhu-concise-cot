@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-02 12:17:31,2023-12-02 12:43:56,gpt-4 - concise - aqua-rat-100,gpt-4,concise,aqua-rat-100,100,0.84,31087,164134,195221,1952.21,10.78065,0.1078065,1584.519016,15.84519016

@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-03 01:19:16,2023-12-03 01:30:11,gpt-4 - concise - arc-challenge-test-100,gpt-4,concise,arc-challenge-test-100,100,0.95,29086,48806,77892,778.92,3.8009399999999998,0.0380094,655.515311,6.55515311

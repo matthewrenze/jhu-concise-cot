@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-11-30 15:43:28,2023-11-30 15:47:25,gpt-4 - baseline - comprehensive-100,gpt-4,baseline,comprehensive-100,100,0.69,46508,8637,55145,551.45,1.9134600000000002,0.0191346,237.274935,2.37274935

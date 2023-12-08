@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-02 23:33:15,2023-12-02 23:36:19,gpt-35-turbo - concise - lsat-rc-100,gpt-35-turbo,concise,lsat-rc-100,100,0.65,92157,72505,164662,1646.62,0.28324550000000004,0.002832455,183.501775,1.83501775

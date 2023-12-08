@@ -1,0 +1,2 @@
+Start Time,End Time,Experiment,Model,Prompt,Exam,Questions,Accuracy,Input Tokens,Output Tokens,Total Tokens,Tokens per Question,Total Cost,Cost per Question,Runtime,Runtime per Question
+2023-12-01 10:36:11,2023-12-01 11:47:09,gpt-4 - composite - aqua-rat-100,gpt-4,composite,aqua-rat-100,100,0.87,53687,352570,406257,4062.57,22.76481,0.22764810000000002,4257.692748,42.57692748
