@@ -1,7 +1,7 @@
 # The Benefits of a Concise Chain of Thought on Problem Solving in Large Language Models
 
 **Author:** Matthew Renze  
-**Class:** EN.605.801
+**Class:** EN.605.801  
 **Date:** 2023-12-08  
 
 ## Abstract
