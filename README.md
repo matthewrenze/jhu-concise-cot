@@ -12,7 +12,7 @@ CCoT reduced average response length by 48.70% for both GPT-3.5 and GPT-4 while 
 These results have practical implications for AI systems engineers using LLMs to solve real-world problems with CoT prompt-engineering techniques. In addition, these results provide more general insight for AI researchers studying the emergent behavior of step-by-step reasoning in LLMs.
 
 ## Documents
-- [Research paper](research-paper.pdf)
+- [Research paper](http://arxiv.org/abs/2401.05618)
 - [Technical appendix](technical-appendix.pdf)
 
 ## Code
