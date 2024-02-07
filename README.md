@@ -1,9 +1,5 @@
 # The Benefits of a Concise Chain of Thought on Problem-Solving in Large Language Models
 
-**Author:** Matthew Renze  
-**Class:** EN.605.801  
-**Date:** 2023-12-08  
-
 ## Abstract
 In this paper, we introduce Concise Chain-of-Thought (CCoT) prompting. We compared standard CoT and CCoT prompts to see how conciseness impacted response length and correct-answer accuracy. We evaluated this using GPT-3.5 and GPT-4 with a multiple-choice question-and-answer (MCQA) benchmark.
 
