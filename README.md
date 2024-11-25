@@ -9,7 +9,10 @@ These results have practical implications for AI systems engineers using LLMs to
 
 ## Documents
 - [Research paper](http://arxiv.org/abs/2401.05618)
+- [Presentation video](https://youtu.be/YwbeFdNKUqk)
+- [Presentation slides](https://matthewrenze.com/wp-content/uploads/presentations/concise-cot.pdf)
 - [Technical appendix](technical-appendix.pdf)
+- [Research homepage](https://matthewrenze.com/research/the-benefits-of-a-concise-chain-of-thought/)
 
 ## Code
 - [Source](source/) - contains all source code
